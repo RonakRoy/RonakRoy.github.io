@@ -162,3 +162,14 @@ h1 {
     flex: 100% 0 1;
   }
 }
+
+.emphasis {
+  font-family: $header_font;
+  font-weight: $semibold_weight;
+  font-size: 36px;
+
+  color: #464646;
+
+  text-align: center;
+  padding-top: 24px;
+}
