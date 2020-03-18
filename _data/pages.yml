@@ -1,0 +1,10 @@
+- name: Projects
+  permalink: /projects/
+- name: Coursework
+  permalink: /coursework/
+- name: Research
+  permalink: /research/
+- name: Engineering Teams
+  permalink: /teams/
+- name: Contact
+  permalink: /contact/

@@ -1,7 +1,4 @@
 ---
-layout: default
-title: "Ronak Roy"
+layout: homepage
+title: "About Me"
 ---
-
-## Ronak Roy
-Welcome to the future home of my new website!
