@@ -1,9 +1,9 @@
 <header class="header">
     <div class="wrap navigation">
-        <a class="hover_animate title" href="/">Ronak Roy</a>
+        <a class="transition title" href="/">Ronak Roy</a>
         
         {% for site_page in site.data.pages %}
-            <a href="{{ site_page.permalink }}" class="page_link hover_animate {% if page.url == site_page.permalink %} current {% endif %}">
+            <a href="{{ site_page.permalink }}" class="page_link transition {% if page.url == site_page.permalink %} current {% endif %}">
                 {{ site_page.name }}
             </a>
         {% endfor %}
