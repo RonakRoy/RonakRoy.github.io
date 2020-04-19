@@ -7,13 +7,13 @@ layout: default
         <div class="wrap content">
             {% if page.url == '/' %}
                 <h1>Hello there!</h1>
-                <div class="subtext">
+                <h3 class="subtext">
                     My name's Ronak. I'm an undergraduate student at MIT studying Electrical Engineering and Computer Science. Now that you're
-                    around, why don't you check out some of the things I've made, teams I've been a part of, or research I've done? You can also
-                    scroll down to learn a little bit more about who I am and what I do.
+                    around, feel free to check out some of the things I've made, teams I've been a part of, and research I've done. Just scroll
+                    down to learn a little bit more about who I am and what I do.
                     <br><br>
-                    If you need me, feel free to poke at one of the buttons below or head over to the contact page!
-                </div>
+                    If you need me, just poke at one of the social buttons below or head over to the contact page!
+                </h3>
                 <div class="social_icons">
                     {% for sm in site.data.social %}
                         <a href="{{ sm.link }}"><img class="transition" src="/assets/images/social/{{sm.name}}.png"></img></a>
@@ -21,9 +21,9 @@ layout: default
                 </div>
             {% else %}
                 <h1>{{ page.title }}</h1>
-                <div class="subtext">
+                <h3 class="subtext">
                     {{ page.description }}
-                </div>
+                </h3>
             {% endif %}
         </div>
     </div>
