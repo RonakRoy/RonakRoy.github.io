@@ -18,13 +18,16 @@ $wage: rgba(34, 170, 59, 1);
 $ufog: rgba(76, 224, 98, 1);
 $pear: rgba(132, 232, 187, 1);
 
+$card_bg: #f8f8f8;
+
 $light_weight: 300;
 $regular_weight: 400;
 $semibold_weight: 600;
 $bold_weight: 700;
 $extraboold_weight: 800;
 
-$background_color: #ffffff;
+$splash_bg: #ffffff;
+$detail_bg: #e0e0e0;
 $body_color: #000000;
 $header_font: "Muli", "Helvetica", "Arial", sans-serif;
 $body_font: "Lato", "Helvetica", "Arial", sans-serif;
@@ -64,12 +67,37 @@ $normal_margin: 24px;
 }
 
 body {
-  background: $background_color;
+  background: $splash_bg;
   color: $body_color;
   font-family: $body_font;
 
   padding: 0px;
   margin: 0px;
+
+  &.detail {
+    background: $detail_bg;
+
+    .main_content.wrap {
+      background: white;
+
+      .content {
+        padding: 24px;
+      }
+    }
+  }
+}
+
+p {
+  padding: 0px;
+  margin: 0px;
+}
+
+.block {
+  margin-bottom: 48px;
+
+  &:last-of-type {
+    margin-bottom: 0px;
+  }
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -128,6 +156,8 @@ h4 {
   // max-height: 90px;
   padding: 30px;
   font-family: $header_font;
+
+  background: white;
 
   .navigation {
     display: flex;
@@ -240,7 +270,7 @@ h4 {
   background-size: cover;
   background-position: center; 
 
-  height: 500px;
+  height: 400px;
 
   .subtext {
     color: #ebebeb;
@@ -305,10 +335,11 @@ h4 {
 
 .main_content {
   margin-top: -72px;
+  min-height: 108px;
 }
 
 .card {
-  background: #f8f8f8;
+  background: $card_bg;
 
   position: relative;
   margin-bottom: 48px;
@@ -425,5 +456,116 @@ h4 {
     color: #747474;
     margin-bottom: 0px;
     line-height: 1.6;
+  }
+}
+
+.class_list {
+  background: $card_bg;
+  padding: 12px;
+
+  display: flex;
+  flex-flow: row wrap;
+
+  justify-content: center;
+
+  .class {
+    overflow: hidden;
+
+    &:hover {
+      @include compat(box-shadow, 0px 4px 8px rgba(0,0,0,0.5));
+      cursor: default;
+
+      .upper {
+        margin-top: -144px;
+      }
+    }
+
+    @media (min-width: $small_width) {
+      flex: 240px 0 0;
+    }
+
+    @media (max-width: $small_width) {
+      flex: 240px 1 0;
+    }
+
+    height: 144px;
+    margin: 12px;
+
+    @include compat(border-radius, 12px);
+
+    .upper {
+      padding: 12px;
+      height: 120px;
+
+      display: flex;
+      flex-flow: column nowrap;
+      justify-content: center;
+      align-items: center;
+
+      text-align: center;
+
+      .number {
+        font-size: 32px;
+        font-weight: $bold_weight;
+      }
+
+      .name {
+        font-size: 22px;
+      }
+    }
+
+    .lower {
+      padding: 12px;
+      height: 120px;
+
+      text-align: center;
+
+      .number {
+        font-size: 20px;
+        font-weight: $bold_weight;
+        letter-spacing: -0.25px;
+      }
+
+      .name {
+        font-size: 20px;
+        letter-spacing: -0.25px;
+      }
+
+      .metadata {
+        color: #4b4b4b;
+      }
+    }
+
+    &.MechE {
+      background: #B4EDD2;
+    }
+
+    &.EECS {
+      background: #A0CFD3;
+    }
+
+    &.GIR {
+      background: #8D94BA;
+      color: white;
+      .metadata {
+        color: #ececec;
+      }
+    }
+
+    &.Math {
+      background: #8D94BA;
+      color: white;
+      .metadata {
+        color: #ececec;
+      }
+    }
+
+    &.HASS {
+      background: #9A7AA0;
+      color: white;
+      .metadata {
+        color: #ececec;
+      }
+    }
   }
 }

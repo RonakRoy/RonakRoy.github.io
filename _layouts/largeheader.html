@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<div class="header_image {% if page.url == '/' %} homepage {% endif %}">
+    <div class="gray">
+        <div class="wrap content">
+            {% if page.url == '/' %}
+                <h1>Hello there!</h1>
+                <h3 class="subtext">
+                    My name's Ronak. I'm an undergraduate student at MIT studying Controls, Instrumentation, and Robotics. Now that you're
+                    around, feel free to check out some of the things I've made, teams I've been a part of, and research I've done. Just scroll
+                    down to learn a little bit more about who I am and what I do.
+                </h3>
+                <div class="social_icons">
+                    {% for sm in site.data.social %}
+                        <a href="{{ sm.link }}"><img class="transition" src="/assets/images/social/{{sm.name}}.png"></img></a>
+                    {% endfor %}
+                </div>
+            {% else %}
+                <h1>{{ page.title }}</h1>
+                <h3 class="subtext">
+                    {{ page.description }}
+                </h3>
+            {% endif %}
+        </div>
+    </div>
+</div>
+{{ content }}

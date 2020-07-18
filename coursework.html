@@ -1,0 +1,32 @@
+---
+layout: detailpage
+permalink: /coursework/
+title: "Coursework"
+description: Looking for which classes I'm taking, I've taken, and I plan on taking? Look no further!
+---
+
+{% for term in site.data.classes %}
+    <div class="block">
+        <h2>{{ term.term }}</h2>
+
+        <div class="class_list">
+            {% for class in term.classes %}
+                <div class="class transition {{ class.dept }}">
+                    <div class="upper transition">
+                        <span class="number">{{ class.number }}</span>
+                        <span class="name">{{ class.name }}</span>
+                    </div>
+                    <div class="lower transition">
+                        <div>
+                            <span class="number">{{ class.number }}</span>
+                            <span class="name">{{ class.name }}</span>
+                        </div>
+                        <div class="metadata">
+                            {{ class.dept }}{% if class.type %} | {{ class.type }}{% endif %} | {% if class.units %} {{ class.units }} {% else %} 12 {% endif %} units
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+{% endfor %}

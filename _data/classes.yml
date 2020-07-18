@@ -1,0 +1,85 @@
+- term: Spring 2020
+  classes:
+    - number: 18.03
+      name: Differential Equations
+      dept: Math
+      type: Engineering
+      target:
+    - number: 6.002
+      name: Circuits and Electronics
+      dept: EECS
+      type: Foundation
+      target:
+    - number: 6.004
+      name: Computation Structures
+      dept: EECS
+      type: Foundation
+      target:
+    - number: 6.042
+      name: Math for Computer Science
+      dept: EECS
+      type: Math/Probability
+      target:
+    - number: 21W.747
+      name: Rhetoric
+      dept: HASS
+      type: Writing
+      target:
+
+- term: IAP 2020
+  classes:
+    - number: "2.670"
+      name: Mechanical Engineering Tools
+      dept: MechE
+      type: Core
+      units: 3
+      target:
+    - number: 6.176
+      name: "Pokerbots Competition"
+      dept: EECS
+      type: Elective
+      units: 6
+      target:
+
+- term: Fall 2019
+  classes:
+    - number: 18.022
+      name: Multivariable Calculus
+      dept: GIR
+      target:
+    - number: 8.022
+      name: "Physics: Electricity and Magnetism"
+      dept: GIR
+      target:
+    - number: 6.A01
+      name: Mens et Manus
+      dept: EECS
+      type: Seminar
+      units: 6
+      target:
+    - number: 7.012
+      name: Introductory Biology
+      dept: GIR
+      target:
+    - number: 17.03
+      name: Introduction to Political Thought
+      dept: HASS
+      type: PoliSci
+      target:
+
+- term: Prior Credit
+  classes:
+    - number: 18.01
+      name: Calculus
+      dept: GIR
+      target:
+    - number: 8.01
+      name: "Physics: Mechanics"
+      dept: GIR
+      target:
+    - number: 6.0001
+      name: Introduction to Computer Science
+      dept: EECS
+      type: Programming Skills
+      units: 6
+      target:
