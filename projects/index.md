@@ -12,4 +12,4 @@ description: Here, you can learn more about some of the projects I've worked on 
 
 {% include card.html image_side="right" title="NarwhalDashboard" page_url="/projects/narwhaldashboard" image_path="/assets/images/projects/nardash.png" subtext="" %}
 
-{% include card.html image_side="left" title="team3128.org" page_url="/projects/team3128org" image_path="" subtext="" %}
+{% include card.html image_side="left" title="team3128.org" page_url="/projects/team3128org" image_path="/assets/images/projects/team3128.png" subtext="" %}

@@ -1,3 +1,35 @@
+- term: Fall 2020
+  classes:
+    - number: 3.091
+      name: Introduction to Solid-State Chemistry
+      dept: GIR
+      target:
+    - number: 6.036
+      name: Introduction to Machine Learning
+      dept: EECS
+      type: Header
+      target:
+    - number: 6.006
+      name: Introduction to Algorithms
+      dept: EECS
+      type: Foundation
+      target:
+    - number: 2.001
+      name: Mechanics and Materials I
+      dept: MechE
+      type: Core
+      target:
+    - number: 2.086
+      name: Numerical Computation for Mechanical Engineers
+      dept: MechE
+      type: Core
+      target:
+    - number: "17.20"
+      name: Introduction to the American Political Process
+      dept: HASS
+      type: PoliSci
+      target:
+
 - term: Spring 2020
   classes:
     - number: 18.03

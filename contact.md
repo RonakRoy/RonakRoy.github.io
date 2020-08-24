@@ -1,10 +1,8 @@
 ---
-layout: splashpage
-permalink: /contact/
+layout: detailpage
 title: "Contact"
 description: Need to reach me for whatever reason? You've come to the right place!
 ---
 
-<div class="emphasis">
-    <i>More to come!</i>
-</div>
+### Email Me
+Feel free to shoot me an email at [me@ronakroy.com](mailto:me@ronakroy.com)!

@@ -8,6 +8,6 @@ description: Whether it be on my own or as a part of university research labs, I
 
 {% include card.html image_side="right" title="SMA-Actuated Hinge for Small Satellites" page_url="/research/flaps" image_path="/assets/images/research/flaps.jpeg" subtext="" %}
 
-{% include card.html image_side="left" title="Multi-Robot Collaborative Mapping Simulator" page_url="/research/acl_clear" image_path="" subtext="" %}
+{% include card.html image_side="left" title="Multi-Robot Collaborative Mapping Simulator" page_url="/research/acl-clear" image_path="/assets/images/research/acl.png" subtext="" %}
 
-{% include card.html image_side="right" title="Modelling Quantum Interaction Energies for Molecular Simulations" page_url="/research/goetz" image_path="" subtext="" %}
+{% include card.html image_side="right" title="Modelling Quantum Interaction Energies for Molecular Simulations" page_url="/research/goetz" image_path="/assets/images/research/goetz.png" subtext="" %}
