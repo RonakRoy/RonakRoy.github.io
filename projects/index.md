@@ -8,7 +8,7 @@ description: Here, you can learn more about some of the projects I've worked on 
 
 {% include card.html image_side="right" title="Brushless DC Motor Developed Using Rapid Prototyping Techniques" page_url="/projects/brushlessmotor" image_path="/assets/images/projects/motor.png" subtext="As a part of my freshman year advising seminar, 6.A01, I designed and fabricated fully-functional DC motor I designed and fabricated from scratch." %}
 
-{% include card.html image_side="left" title="Sun-Tracking Solar Panel" page_url="/projects/suntracking" image_path="" subtext="In my AP Environmental Science class, my final project was developing a small-scale solar panel that used computer vision to track the sun." %}
+{% include card.html image_side="left" title="Sun-Tracking Solar Panel" page_url="/projects/suntracking" image_path="/assets/images/projects/solar.jpg" subtext="In my AP Environmental Science class, my final project was developing a small-scale solar panel that used computer vision to track the sun." %}
 
 {% include card.html image_side="right" title="NarwhalDashboard" page_url="/projects/narwhaldashboard" image_path="/assets/images/projects/nardash.png" subtext="I developed a custom, web-socket based web dashboard for robot communication as Head of Controls on my FIRST Robotics Competition Team" %}
 
