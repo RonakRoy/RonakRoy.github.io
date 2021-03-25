@@ -1,3 +1,31 @@
+- term: Spring 2021
+  classes:
+    - number: 6.302
+      name: Feedback System Design
+      dept: EECS
+      type: Advanced Subject
+      target:
+    - number: 6.08
+      name: Interconnected Embedded Systems
+      dept: EECS
+      type: Introductory
+      target:
+    - number: 2.003
+      name: Dynamics and Control I
+      dept: MechE
+      type: Core
+      target:
+    - number: 2.007
+      name: Design and Manufacturing I
+      dept: MechE
+      type: Core
+      target:
+    - number: 11.001
+      name: Introduction to Urban Design and Development
+      dept: HASS
+      type: Urban Studies/Planning
+      target:
+
 - term: Fall 2020
   classes:
     - number: 3.091
