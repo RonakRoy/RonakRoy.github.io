@@ -43,12 +43,26 @@ $normal_margin: 24px;
     max-width: $wide_width - 2*$normal_margin;
     margin: 0 auto;
   }
+
+  .class_popup {
+    margin-left: auto;
+    margin-right: auto;
+    
+    padding: 48px;
+  }
 }
 
 @media (min-width: $medium_width) and (max-width: $wide_width) {
   .wrap {
     max-width: $medium_width - 2*$normal_margin;
     margin: 0 auto;
+  }
+
+  .class_popup {
+    margin-left: auto;
+    margin-right: auto;
+    
+    padding: 48px;
   }
 }
 
@@ -57,12 +71,26 @@ $normal_margin: 24px;
     max-width: $small_width - 2*$normal_margin;
     margin: 0 auto;
   }
+
+  .class_popup {
+    margin-left: 24px;
+    margin-right: 24px;
+    
+    padding: 24px;
+  }
 }
 
 @media                               (max-width: $small_width) {
   .wrap {
     max-width: 100%;
     margin: 0 $normal_margin;
+  }
+
+  .class_popup {
+    margin-left: 24px;
+    margin-right: 24px;
+    
+    padding: 12px;
   }
 }
 
@@ -132,23 +160,23 @@ h4 {
 
 @media (max-width: $medium_width) {
   h1 {
-    font-size: 0.9*58px;
+    font-size: 0.8*58px;
   }
   
   h2 {
-    font-size: 0.9*36px;
+    font-size: 0.8*36px;
   }
   
   h3 {
-    font-size: 0.9*24px;
+    font-size: 0.8*24px;
   }
 
   h4 {
-    font-size: 0.9*22px;
+    font-size: 0.8*22px;
   }
 
   .content {
-    font-size: 0.9*18px;
+    font-size: 0.8*18px;
   }
 }
 
@@ -489,7 +517,7 @@ h4 {
 
     &:hover {
       @include compat(box-shadow, 0px 2px 4px rgba(0,0,0,0.5));
-      cursor: default;
+      cursor: pointer;
 
       .upper {
         margin-top: -144px;
@@ -548,6 +576,7 @@ h4 {
       }
 
       .metadata {
+        font-size: 18px;
         color: #4b4b4b;
       }
     }
@@ -582,6 +611,81 @@ h4 {
       .metadata {
         color: #ececec;
       }
+    }
+  }
+}
+
+.overlay {
+  position: fixed;
+  z-index: 100;
+
+  background: rgba(0,0,0,0.25);
+
+  top: 0px;
+  left: 0px;
+  bottom: 0px;
+  right: 0px;
+
+  overflow: scroll;
+
+  .class_popup {
+    max-width: 800px;
+
+    margin-top: 96px;
+    margin-bottom: 96px;
+
+    border-radius: 12px;
+
+    background: white;
+
+    .title {
+      text-align: center;
+    }
+
+    .number {
+      font-size: 28px;
+      font-weight: $bold_weight;
+    }
+
+    .name {
+      font-size: 28px;
+    }
+
+    .metadata {
+      text-align: center;
+
+      font-size: 20px;
+      color: #4b4b4b;
+    }
+
+    .description {
+      margin-top: 12px;
+      font-size: 18px;
+    }
+  }
+}
+
+.button {
+  padding: 8px 12px;
+  font-size: 24px;
+  border-radius: 8px;
+
+  &.inline {
+    display: inline-block;
+  }
+
+  &:hover {
+    cursor: pointer;
+  }
+
+  &.gray {
+    color: #414141;
+    border: 2px solid #414141;
+
+    &:hover {
+      border: 2px solid #949494;
+      color: #ffffff;
+      background: #949494;
     }
   }
 }

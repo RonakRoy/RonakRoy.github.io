@@ -4,59 +4,59 @@
       name: Feedback System Design
       dept: EECS
       type: Advanced Subject
-      target:
+      description: Learn-by-design introduction to modeling and control of discrete- and continuous-time systems, from classical analytical techniques to modern computational strategies. Topics include modeling (difference/differential equations, natural frequencies, transfer functions, frequency response, impedances);  performance metrics (stability, tracking, disturbance rejection); classical design (root-locus, PID, lead-lag); state-space (ABCD matrices, pole placement, LQR, observers); and data-driven design (regression,identification, model-based control). Students apply concepts introduced in lectures and online assignments to design labs that include discussion-based checkoffs. In lab, students use circuits, sensors, actuators, and a microcontroller to design, build and test controllers for, e.g., propeller-actuated positioners, magnetic levitators, and two-wheel balancers. Students taking graduate version complete additional assignments.
     - number: 6.08
       name: Interconnected Embedded Systems
       dept: EECS
       type: Introductory
-      target:
+      description: Introduction to embedded systems in the context of connected devices, wearables, and the "Internet of Things" (IoT). Topics include microcontrollers, energy utilization, algorithmic efficiency, interfacing with sensors, networking, cryptography, and local versus distributed computation. Students design, make, and program an Internet-connected wearable or handheld device. In final project, student teams design and demo their own cloud-connected IoT system. 
     - number: 2.003
       name: Dynamics and Control I
       dept: MechE
       type: Core
-      target:
+      description: Introduction to the dynamics and vibrations of lumped-parameter models of mechanical systems. Kinematics. Force-momentum formulation for systems of particles and rigid bodies in planar motion. Work-energy concepts. Virtual displacements and virtual work. Lagrange's equations for systems of particles and rigid bodies in planar motion. Linearization of equations of motion. Linear stability analysis of mechanical systems. Free and forced vibration of linear multi-degree of freedom models of mechanical systems; matrix eigenvalue problems.
     - number: 2.007
       name: Design and Manufacturing I
       dept: MechE
       type: Core
-      target:
+      description: Develops students' competence and self-confidence as design engineers. Emphasis on the creative design process bolstered by application of physical laws. Instruction on how to complete projects on schedule and within budget. Robustness and manufacturability are emphasized. Subject relies on active learning via a major design-and-build project. Lecture topics include idea generation, estimation, concept selection, visual thinking, computer-aided design (CAD), mechanism design, machine elements, basic electronics, technical communication, and ethics. 
     - number: 11.001
       name: Introduction to Urban Design and Development
       dept: HASS
       type: Urban Studies/Planning
-      target:
+      description: Examines the evolving structure of cities and the way that cities, suburbs, and metropolitan areas can be designed and developed. Surveys the ideas of a wide range of people who have addressed urban problems. Stresses the connection between values and design. Demonstrates how physical, social, political and economic forces interact to shape and reshape cities over time.
 
 - term: Fall 2020
   classes:
     - number: 3.091
       name: Introduction to Solid-State Chemistry
       dept: GIR
-      target:
+      description: Basic principles of chemistry and their application to engineering systems. The relationship between electronic structure, chemical bonding, and atomic order. Characterization of atomic arrangements in crystalline and amorphous solids&#58; metals, ceramics, semiconductors, and polymers. Topical coverage of organic chemistry, solution chemistry, acid-base equilibria, electrochemistry, biochemistry, chemical kinetics, diffusion, and phase diagrams. Examples from industrial practice (including the environmental impact of chemical processes), from energy generation and storage (e.g., batteries and fuel cells), and from emerging technologies (e.g., photonic and biomedical devices).
     - number: 6.036
       name: Introduction to Machine Learning
       dept: EECS
       type: Header
-      target:
+      description: Introduces principles, algorithms, and applications of machine learning from the point of view of modeling and prediction; formulation of learning problems; representation, over-fitting, generalization; clustering, classification, probabilistic modeling; and methods such as support vector machines, hidden Markov models, and neural networks. Students taking graduate version complete additional assignments. 
     - number: 6.006
       name: Introduction to Algorithms
       dept: EECS
       type: Foundation
-      target:
+      description: Introduction to mathematical modeling of computational problems, as well as common algorithms, algorithmic paradigms, and data structures used to solve these problems. Emphasizes the relationship between algorithms and programming, and introduces basic performance measures and analysis techniques for these problems.
     - number: 2.001
       name: Mechanics and Materials I
       dept: MechE
       type: Core
-      target:
+      description: Introduction to statics and the mechanics of deformable solids. Emphasis on the three basic principles of equilibrium, geometric compatibility, and material behavior. Stress and its relation to force and moment; strain and its relation to displacement; linear elasticity with thermal expansion. Failure modes. Application to simple engineering structures such as rods, shafts, beams, and trusses. Application to biomechanics of natural materials and structures.
     - number: 2.086
       name: Numerical Computation for Mechanical Engineers
       dept: MechE
       type: Core
-      target:
+      description: Covers elementary programming concepts, including variable types, data structures, and flow control. Provides an introduction to linear algebra and probability. Numerical methods relevant to MechE, including approximation (interpolation, least squares, and statistical regression), integration, solution of linear and nonlinear equations, and ordinary differential equations. Presents deterministic and probabilistic approaches. Uses examples from MechE, particularly from robotics, dynamics, and structural analysis. Assignments require MATLAB programming. 
     - number: "17.20"
       name: Introduction to the American Political Process
       dept: HASS
       type: PoliSci
-      target:
+      description: Provides a substantive overview of US politics and an introduction to the discipline of political science. Surveys the institutional foundations of US politics as well as the activities of political elites, organizations, and ordinary citizens. Explores the application of general political science concepts and analytic frameworks to specific episodes and phenomena in US politics. 
 
 - term: Spring 2020
   classes:
@@ -64,27 +64,27 @@
       name: Differential Equations
       dept: Math
       type: Engineering
-      target:
+      description: Study of differential equations, including modeling physical systems. Solution of first-order ODEs by analytical, graphical, and numerical methods. Linear ODEs with constant coefficients. Complex numbers and exponentials. Inhomogeneous equations&#58; polynomial, sinusoidal, and exponential inputs. Oscillations, damping, resonance. Fourier series. Matrices, eigenvalues, eigenvectors, diagonalization. First order linear systems&#58; normal modes, matrix exponentials, variation of parameters. Heat equation, wave equation. Nonlinear autonomous systems&#58; critical point analysis, phase plane diagrams.
     - number: 6.002
       name: Circuits and Electronics
       dept: EECS
       type: Foundation
-      target:
+      description: Fundamentals of linear systems and abstraction modeling through lumped electronic circuits. Linear networks involving independent and dependent sources, resistors, capacitors and inductors. Extensions to include nonlinear resistors, switches, transistors, operational amplifiers and transducers. Dynamics of first- and second-order networks; design in the time and frequency domains; signal and energy processing applications. Design exercises. Weekly laboratory with microcontroller and transducers.
     - number: 6.004
       name: Computation Structures
       dept: EECS
       type: Foundation
-      target:
+      description: Provides an introduction to the design of digital systems and computer architecture. Emphasizes expressing all hardware designs in a high-level hardware language and synthesizing the designs. Topics include combinational and sequential circuits, instruction set abstraction for programmable hardware, single-cycle and pipelined processor implementations, multi-level memory hierarchies, virtual memory, exceptions and I/O, and parallel systems.
     - number: 6.042
       name: Math for Computer Science
       dept: EECS
       type: Math/Probability
-      target:
+      description: Elementary discrete mathematics for science and engineering, with a focus on mathematical tools and proof techniques useful in computer science. Topics include logical notation, sets, relations, elementary graph theory, state machines and invariants, induction and proofs by contradiction, recurrences, asymptotic notation, elementary analysis of algorithms, elementary number theory and cryptography, permutations and combinations, counting tools, and discrete probability.
     - number: 21W.747
       name: Rhetoric
       dept: HASS
       type: Writing
-      target:
+      description: For students with a special interest in learning how to make forceful arguments in oral and written form. Studies the forms and structures of argumentation, including organization of ideas, awareness of audience, methods of persuasion, evidence, factual vs. emotional argument, figures of speech, and historical forms and uses of arguments.
 
 - term: IAP 2020
   classes:
@@ -93,53 +93,53 @@
       dept: MechE
       type: Core
       units: 3
-      target:
+      description: Introduces the fundamentals of machine tools use and fabrication techniques. Students work with a variety of machine tools including the bandsaw, milling machine, and lathe. Mechanical Engineering students are advised to take this subject in the first IAP after declaring their major. Enrollment may be limited due to laboratory capacity. 
     - number: 6.176
       name: "Pokerbots Competition"
       dept: EECS
       type: Elective
       units: 6
-      target:
+      description: Build autonomous poker players and acquire the knowledge of the game of poker. Showcase decision making skills, apply concepts in mathematics, computer science and economics. Provides instruction in programming, game theory, probability and statistics and machine learning.
 
 - term: Fall 2019
   classes:
     - number: 18.022
-      name: Multivariable Calculus
+      name: Calculus II
       dept: GIR
-      target:
+      description: Calculus of several variables. More mathematically rigorous than traditional Calculus II. Vector algebra, dot product, matrices, determinant. Functions of several variables, continuity, differentiability, derivative. Parametrized curves, arc length, curvature, torsion. Vector fields, gradient, curl, divergence. Multiple integrals, change of variables, line integrals, surface integrals. Stokes' theorem in one, two, and three dimensions.
     - number: 8.022
-      name: "Physics: Electricity and Magnetism"
+      name: Physics II
       dept: GIR
-      target:
+      description: Electromagnetism and electrostatics. Mathematically advanced compared to traditional Physics II. Electric charge, Coulomb's Law, electric structure of matter. Conductors and dielectrics. Electrostatic and magnetic vector potential, electrostatic energy. Electric currents, magnetic fields, and Ampere's law. Properties of dielectrics and magnetic materials. Time-varying fields and Faraday's law of induction. Basic electric circuits. Electromagnetic waves and Maxwell's equations, in both differential and integral forms.
     - number: 6.A01
       name: Mens et Manus
       dept: EECS
       type: Seminar
       units: 6
-      target:
+      description: This seminar provides opportunities to learn to use modern fabrication techniques such as laser cutting and 3D printing as well as state-of-the-art microcontrollers to design and build your own novel brushless motor. Learn how to apply principles from your classroom experiences in physics and math to real-world design problems, and then build your design using MIT's state-of-the-art prototyping facilities.
     - number: 7.012
       name: Introductory Biology
       dept: GIR
-      target:
+      description: Exploration into areas of current research in molecular and cell biology, immunology, neurobiology, human genetics, biochemistry, and evolution. Enrollment limited to seating capacity of classroom.
     - number: 17.03
       name: Introduction to Political Thought
       dept: HASS
       type: PoliSci
-      target:
+      description: Examines major texts in the history of political thought and considers how they contribute to a broader conversation about freedom, equality, democracy, rights, and the role of politics in human life. Areas covered may include ancient, modern, contemporary, or American political thought.
 
 - term: Prior Credit
   classes:
     - number: 18.01
-      name: Calculus
+      name: Calculus I
       dept: GIR
-      target:
+      description: Differentiation and integration of functions of one variable, with applications. Informal treatment of limits and continuity. Differentiation&#58; definition, rules, application to graphing, rates, approximations, and extremum problems. Indefinite integration; separable first-order differential equations. Definite integral; fundamental theorem of calculus. Applications of integration to geometry and science. Elementary functions. Techniques of integration. Polar coordinates. L'Hopital's rule. Improper integrals. Infinite series&#58; geometric, p-harmonic, simple comparison tests, power series for some elementary functions.
     - number: 8.01
-      name: "Physics: Mechanics"
+      name: Physics I
       dept: GIR
-      target:
+      description: Introduces classical mechanics. Space and time&#58; straight-line kinematics; motion in a plane; forces and static equilibrium; particle dynamics, with force and conservation of momentum; relative inertial frames and non-inertial force; work, potential energy and conservation of energy; kinetic theory and the ideal gas; rigid bodies and rotational dynamics; vibrational motion; conservation of angular momentum; central force motions; fluid mechanics. 
     - number: 6.0001
       name: Introduction to Computer Science
       dept: EECS
       type: Programming Skills
       units: 6
-      target:
+      description: Introduction to computer science and programming for students with little or no programming experience. Students develop skills to program and use computational techniques to solve problems. Topics include the notion of computation, Python, simple algorithms and data structures, testing and debugging, and algorithmic complexity. 
