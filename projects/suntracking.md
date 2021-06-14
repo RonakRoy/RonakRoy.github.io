@@ -1,7 +1,7 @@
 ---
 layout: detailpage
 title: Sun-Tracking Solar Panel
-description: A small-scale project I developed for my high school AP Environmental Science class.
+description: May 2018
 ---
 
-<div style="text-align: center; font-size: 20pt"><i>Details coming soon...</i></div>
+In my AP Environmental Science class, my final project was developing a small-scale solar panel that used computer vision to track the sun.

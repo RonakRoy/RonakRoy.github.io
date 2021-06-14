@@ -43,26 +43,12 @@ $normal_margin: 24px;
     max-width: $wide_width - 2*$normal_margin;
     margin: 0 auto;
   }
-
-  .class_popup {
-    margin-left: auto;
-    margin-right: auto;
-    
-    padding: 48px;
-  }
 }
 
 @media (min-width: $medium_width) and (max-width: $wide_width) {
   .wrap {
     max-width: $medium_width - 2*$normal_margin;
     margin: 0 auto;
-  }
-
-  .class_popup {
-    margin-left: auto;
-    margin-right: auto;
-    
-    padding: 48px;
   }
 }
 
@@ -71,26 +57,12 @@ $normal_margin: 24px;
     max-width: $small_width - 2*$normal_margin;
     margin: 0 auto;
   }
-
-  .class_popup {
-    margin-left: 24px;
-    margin-right: 24px;
-    
-    padding: 24px;
-  }
 }
 
 @media                               (max-width: $small_width) {
   .wrap {
     max-width: 100%;
     margin: 0 $normal_margin;
-  }
-
-  .class_popup {
-    margin-left: 24px;
-    margin-right: 24px;
-    
-    padding: 12px;
   }
 }
 
@@ -133,50 +105,58 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: -.02em;
 }
 
-h1, h2, h3, h4 {
+h1, h2, h3, h4, h5 {
   margin-top: 0px;
   margin-bottom: 12px;
 }
 
 h1 {
-  font-size: 58px;
+  font-size: 48px;
 }
 
 h2 {
-  font-size: 36px;
+  font-size: 42px;
 }
 
 h3 {
-  font-size: 24px;
+  font-size: 36px;
 }
 
 h4 {
-  font-size: 22px;
+  font-size: 30px;
+}
+
+h5 {
+  font-size: 24px;
 }
 
 .content {
-  font-size: 18px;
+  font-size: 20px;
 }
 
 @media (max-width: $medium_width) {
   h1 {
-    font-size: 0.8*58px;
+    font-size: 0.85*48px;
   }
   
   h2 {
-    font-size: 0.8*36px;
+    font-size: 0.85*40px;
   }
   
   h3 {
-    font-size: 0.8*24px;
+    font-size: 0.85*32px;
   }
-
+  
   h4 {
-    font-size: 0.8*22px;
+    font-size: 0.85*24px;
   }
-
+  
+  h5 {
+    font-size: 14px;
+  }
+  
   .content {
-    font-size: 0.8*18px;
+    font-size: 14px;
   }
 }
 
@@ -308,7 +288,7 @@ h4 {
 
   height: 400px;
 
-  .subtext {
+  .description {
     color: #ebebeb;
     font-weight: $regular_weight;
     margin-bottom: 0px;
@@ -330,7 +310,7 @@ h4 {
       }
     }
 
-    .subtext {
+    .description {
       margin-bottom: 24px;
     }
   }
@@ -382,6 +362,10 @@ h4 {
 
   @media (min-width: $medium_width) {
     min-height: 460px;
+  }
+
+  @media (max-width: $wide_width) and (min-width: $medium_width) {
+    min-height: 520px;
   }
 
   @media (max-width: $medium_width) {
@@ -459,8 +443,9 @@ h4 {
 
   .content {
     background: white;
-
     padding: 30px;
+
+    @include compat(transition, box-shadow ease-in-out 0.35s);
 
     @media (min-width: $medium_width) {
       position: absolute;
@@ -487,11 +472,20 @@ h4 {
     @include compat(box-shadow, 0px 4px 12px rgba(0,0,0,0.15));
   }
 
-  .subtext {
+  .title {
+    margin: 0px;
+  }
+
+  .subheader {
+    color: $sham;
+    margin: 0px 0px 8px;
+  }
+
+  .description {
     font-weight: $regular_weight;
     color: #747474;
     margin-bottom: 0px;
-    line-height: 1.6;
+    line-height: 1.5;
   }
 }
 
@@ -633,6 +627,20 @@ h4 {
 
     margin-top: 96px;
     margin-bottom: 96px;
+
+    @media (min-width: $medium_width) {
+      margin-left: auto;
+      margin-right: auto;
+      
+      padding: 48px;
+    }
+
+    @media (max-width: $medium_width) {
+      margin-left: 24px;
+      margin-right: 24px;
+      
+      padding: 24px;
+    }
 
     border-radius: 12px;
 

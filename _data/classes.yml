@@ -111,16 +111,16 @@
       name: Physics II
       dept: GIR
       description: Electromagnetism and electrostatics. Mathematically advanced compared to traditional Physics II. Electric charge, Coulomb's Law, electric structure of matter. Conductors and dielectrics. Electrostatic and magnetic vector potential, electrostatic energy. Electric currents, magnetic fields, and Ampere's law. Properties of dielectrics and magnetic materials. Time-varying fields and Faraday's law of induction. Basic electric circuits. Electromagnetic waves and Maxwell's equations, in both differential and integral forms.
+    - number: 7.012
+      name: Introductory Biology
+      dept: GIR
+      description: Exploration into areas of current research in molecular and cell biology, immunology, neurobiology, human genetics, biochemistry, and evolution. Enrollment limited to seating capacity of classroom.
     - number: 6.A01
       name: Mens et Manus
       dept: EECS
       type: Seminar
       units: 6
       description: This seminar provides opportunities to learn to use modern fabrication techniques such as laser cutting and 3D printing as well as state-of-the-art microcontrollers to design and build your own novel brushless motor. Learn how to apply principles from your classroom experiences in physics and math to real-world design problems, and then build your design using MIT's state-of-the-art prototyping facilities.
-    - number: 7.012
-      name: Introductory Biology
-      dept: GIR
-      description: Exploration into areas of current research in molecular and cell biology, immunology, neurobiology, human genetics, biochemistry, and evolution. Enrollment limited to seating capacity of classroom.
     - number: 17.03
       name: Introduction to Political Thought
       dept: HASS

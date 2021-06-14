@@ -1,7 +1,7 @@
 ---
 layout: detailpage
-title: Narwhal Dashboard
-description: A custom, web-socket based web dashboard for robot communication, developed for my FIRST Robotics Competition team.
+title: NarwhalDashboard
+description: Aug 2018 — Jun 2019
 ---
 
-<div style="text-align: center; font-size: 20pt"><i>Details coming soon...</i></div>
+I developed a custom, web-socket based web dashboard for robot communication as Head of Controls on my FIRST Robotics Competition Team.
