@@ -1,6 +1,6 @@
 ---
 layout: detailpage
-title: Custom Brushless DC Motor
+title: 2.007 Competition Robot
 description: Sep 2019 — Oct 2019
 ---
 

@@ -8,7 +8,7 @@ description: Here, you can learn more about some of the projects I've worked on 
     image_side="left"
     title="2.007 Competition Robot"
     page_url="/projects/2007robot"
-    image_path="/assets/images/projects/2007robot.png"
+    image_path="/assets/images/projects/2007robot.jpg"
     subheader="Feb 2021 — May 2021"
     description="Every year, each student of 2.007: Design and Manufacturing I, design and fabricate a robot to compete in that year's competition. This is my robot for the 2021 competition: Home Alone Together."
 %}
@@ -52,7 +52,7 @@ description: Here, you can learn more about some of the projects I've worked on 
 {% include card.html
     image_side="right"
     title="FRC Team 3128's Website"
-    page_url="/projects/team3128org"
+    page_url="/projects/frc3128website"
     image_path="/assets/images/projects/team3128.png"
     subheader="Mar 2016 — Jun 2019"
     description="I built and maintained the website for my high school's FIRST Robotics Competition team from scratch in HTML/CSS/JS using Jekyll."

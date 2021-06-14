@@ -24,7 +24,7 @@ $light_weight: 300;
 $regular_weight: 400;
 $semibold_weight: 600;
 $bold_weight: 700;
-$extraboold_weight: 800;
+$extrabold_weight: 800;
 
 $splash_bg: #ffffff;
 $detail_bg: #e0e0e0;
@@ -92,6 +92,18 @@ p {
   margin: 0px;
 }
 
+a {
+  color: $poly;
+
+  &:visited {
+    color: $poly;
+  }
+
+  &:hover {
+    color: #575757;
+  }
+}
+
 .block {
   margin-bottom: 48px;
 
@@ -152,11 +164,11 @@ h5 {
   }
   
   h5 {
-    font-size: 14px;
+    font-size: 18px;
   }
   
   .content {
-    font-size: 14px;
+    font-size: 18px;
   }
 }
 
@@ -276,8 +288,16 @@ h5 {
 }
 
 .footer {
-  max-height: 220px;
-  padding: 80px;
+  margin-top: 24px;
+  padding: 24px 0px;
+
+  background: #ececec;
+
+  div {
+    background: white;
+    padding: 12px 0px;
+    text-indent: 12px;
+  }
 }
 
 .header_image {
@@ -359,6 +379,10 @@ h5 {
 
   position: relative;
   margin-bottom: 48px;
+
+  &:last-child {
+    margin-bottom: 0px;
+  }
 
   @media (min-width: $medium_width) {
     min-height: 460px;
