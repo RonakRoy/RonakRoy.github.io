@@ -15,6 +15,15 @@ description: Here, you can learn more about some of the projects I've worked on 
 
 {% include card.html
     image_side="right"
+    title="Solar Car Back Suspension Mount Machining"
+    page_url="/projects/backsuspension"
+    image_path="/assets/images/projects/backsuspension.jpg"
+    subheader="Oct 2019 — Jan 2020"
+    description="On the MIT Solar Electric Vehicle Team, I was the Responsible Engineer for the rear suspension on Nimbus, our vehicle for the 2021 American Solar Challenge. One of my tasks was machining the shock mount using a ProtoTRAK CNC mill."
+%}
+
+{% include card.html
+    image_side="left"
     title="Brushless DC Motor"
     page_url="/projects/brushlessmotor"
     image_path="/assets/images/projects/motor.png"
@@ -41,7 +50,7 @@ description: Here, you can learn more about some of the projects I've worked on 
 %}
 
 {% include card.html
-    image_side="left"
+    image_side="right"
     title="NarwhalDashboard"
     page_url="/projects/narwhaldashboard"
     image_path="/assets/images/projects/nardash.png"
@@ -49,11 +58,11 @@ description: Here, you can learn more about some of the projects I've worked on 
     description="I developed a custom, web-socket based web dashboard for robot communication as Head of Controls on my FIRST Robotics Competition Team."
 %}
 
-{% include card.html
+<!-- {% include card.html
     image_side="right"
     title="FRC Team 3128's Website"
     page_url="/projects/frc3128website"
     image_path="/assets/images/projects/team3128.png"
     subheader="Mar 2016 — Jun 2019"
     description="I built and maintained the website for my high school's FIRST Robotics Competition team from scratch in HTML/CSS/JS using Jekyll."
-%}
+%} -->
