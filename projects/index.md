@@ -10,7 +10,7 @@ description: Here, you can learn more about some of the projects I've worked on 
     page_url="/projects/2007robot"
     image_path="/assets/images/projects/2007robot.jpg"
     subheader="Feb 2021 — May 2021"
-    description="Every year, each student of 2.007: Design and Manufacturing I, design and fabricate a robot to compete in that year's competition. This is my robot for the 2021 competition: Home Alone Together."
+    description="Every year, each student of 2.007: Design and Manufacturing I designs and fabricates a robot to compete in the class competition.This is my robot for the 2021 competition, Home Alone Together."
 %}
 
 {% include card.html
