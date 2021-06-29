@@ -1,8 +1,17 @@
 ---
 layout: splashpage
 title: "Experience"
-description: Ever since high school, I have had the privilege of gaining valuable work experience through experience internships at the university-level and through engineering internships at companies.
+description: Ever since high school, I have had the privilege of gaining valuable work experience through research internships at the university-level and through engineering internships in industry.
 ---
+
+{% include card.html
+	image_side="left"
+	title="Manufacturing and Robotics Intern"
+	page_url="/experience/lilly"
+	image_path="/assets/images/experience/lilly.png"
+	subheader="Eli Lilly and Co. | Jun 2021 — Present"
+	description="My projects encompassed the drug delivery device assembly lines and mobile autonomous robots for transportation of product and materials throughout the factory."
+%}
 
 {% include card.html
 	image_side="left"
