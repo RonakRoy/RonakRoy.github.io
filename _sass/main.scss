@@ -419,6 +419,36 @@ h5 {
     right: 0px;
   }
 
+  &:nth-child(odd) {
+    .image_frame {  
+      @media (min-width: $medium_width) {  
+        left: 0px;
+        right: 50%;
+      }
+    }
+
+    .content {
+      @media (min-width: $medium_width) {
+        right: 30px;
+      }
+    }
+  }
+
+  &:nth-child(even) {
+    .image_frame {  
+      @media (min-width: $medium_width) {  
+        left: 50%;
+        right: 0px;
+      }
+    }
+
+    .content {
+      @media (min-width: $medium_width) {
+        left: 30px;
+      }
+    }
+  }
+
   .image_frame {
     overflow: hidden;
 
@@ -427,16 +457,6 @@ h5 {
 
     @media (min-width: $medium_width) {
       position: absolute;
-
-      &.left {
-        left: 0px;
-        right: 50%;
-      }
-  
-      &.right {
-        left: 50%;
-        right: 0px;
-      }
     }
 
     @media (max-width: $medium_width) {
@@ -477,14 +497,6 @@ h5 {
       bottom: 30px;
 
       width: 50%;
-
-      &.left {
-        right: 30px;
-      }
-
-      &.right {
-        left: 30px;
-      }
     }
 
     @media (max-width: $medium_width) {

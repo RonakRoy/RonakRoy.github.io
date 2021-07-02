@@ -5,7 +5,6 @@ description: Ever since high school, I have had the privilege of gaining valuabl
 ---
 
 {% include card.html
-	image_side="left"
 	title="Manufacturing and Robotics Intern"
 	page_url="/experience/lilly"
 	image_path="/assets/images/experience/lilly.png"
@@ -14,7 +13,6 @@ description: Ever since high school, I have had the privilege of gaining valuabl
 %}
 
 {% include card.html
-	image_side="left"
 	title="Multi-Modality Association Algorithm for Robot Perception"
 	page_url="/experience/acl-mixer"
 	image_path="/assets/images/experience/acl-mixer.png"
@@ -23,7 +21,6 @@ description: Ever since high school, I have had the privilege of gaining valuabl
 %}
 
 {% include card.html
-	image_side="right"
 	title="Multi-Robot Collaborative Mapping Simulator"
 	page_url="/experience/acl-clear"
 	image_path="/assets/images/experience/acl-clear.png"
@@ -32,7 +29,6 @@ description: Ever since high school, I have had the privilege of gaining valuabl
 %}
 
 {% include card.html
-	image_side="left"
 	title="SMA-Actuated Hinge for Small Satellites"
 	page_url="/experience/flaps"
 	image_path="/assets/images/experience/flaps.jpeg"
@@ -41,7 +37,6 @@ description: Ever since high school, I have had the privilege of gaining valuabl
 %}
 
 {% include card.html
-	image_side="right"
 	title="Modelling Quantum Interaction Energies for Molecular Simulations"
 	page_url="/experience/goetz"
 	image_path="/assets/images/experience/goetz.png"

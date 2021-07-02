@@ -5,7 +5,6 @@ description: Here, you can learn more about some of the projects I've worked on 
 ---
 
 {% include card.html
-    image_side="left"
     title="2.007 Competition Robot"
     page_url="/projects/2007robot"
     image_path="/assets/images/projects/2007robot.jpg"
@@ -14,7 +13,6 @@ description: Here, you can learn more about some of the projects I've worked on 
 %}
 
 {% include card.html
-    image_side="right"
     title="Solar Car Back Suspension Mount Machining"
     page_url="/projects/backsuspension"
     image_path="/assets/images/projects/backsuspension.jpg"
@@ -23,7 +21,6 @@ description: Here, you can learn more about some of the projects I've worked on 
 %}
 
 {% include card.html
-    image_side="left"
     title="Brushless DC Motor"
     page_url="/projects/brushlessmotor"
     image_path="/assets/images/projects/motor.png"
@@ -32,7 +29,6 @@ description: Here, you can learn more about some of the projects I've worked on 
 %}
 
 {% include card.html
-    image_side="right"
     title="Sun-Tracking Solar Panel"
     page_url="/projects/suntracking"
     image_path="/assets/images/projects/solar.jpg"
@@ -41,7 +37,6 @@ description: Here, you can learn more about some of the projects I've worked on 
 %}
 
 {% include card.html
-    image_side="left"
     title="Smartphone-Controlled Portable Phoropter"
     page_url="/projects/phoropter"
     image_path="/assets/images/projects/phoropter.png"
@@ -50,7 +45,6 @@ description: Here, you can learn more about some of the projects I've worked on 
 %}
 
 {% include card.html
-    image_side="right"
     title="NarwhalDashboard"
     page_url="/projects/narwhaldashboard"
     image_path="/assets/images/projects/nardash.png"
@@ -59,7 +53,6 @@ description: Here, you can learn more about some of the projects I've worked on 
 %}
 
 <!-- {% include card.html
-    image_side="right"
     title="FRC Team 3128's Website"
     page_url="/projects/frc3128website"
     image_path="/assets/images/projects/team3128.png"
