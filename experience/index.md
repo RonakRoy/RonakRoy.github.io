@@ -9,7 +9,7 @@ description: Ever since high school, I have had the privilege of gaining valuabl
 	page_url="/experience/lilly"
 	image_path="/assets/images/experience/lilly.png"
 	subheader="Eli Lilly and Co. | Jun 2021 — Present"
-	description="My projects encompassed the drug delivery device assembly lines and mobile autonomous robots for transportation of product and materials throughout the factory."
+	description="I built a data organization system that enables process engineers to improve efficiency on the assembly line for the Trulicity autoinjector. I also developed a robotic automation strategy that utilizes industrial robots in the drug device and packaging facility."
 %}
 
 {% include card.html
@@ -17,7 +17,7 @@ description: Ever since high school, I have had the privilege of gaining valuabl
 	page_url="/experience/acl-mixer"
 	image_path="/assets/images/experience/acl-mixer.png"
 	subheader="MIT Aerospace Controls Laboratory | Jan 2021 — May 2021"
-	description="I helped develop the MIXER algorithm, which allows data gathered from multiple modalities to be fused to provide accurate associations of objects over multiple observations. "
+	description="I helped develop the MIXER algorithm, which allows data gathered from multiple modalities to be fused to provide accurate associations of objects over multiple observations."
 %}
 
 {% include card.html
@@ -41,5 +41,5 @@ description: Ever since high school, I have had the privilege of gaining valuabl
 	page_url="/experience/goetz"
 	image_path="/assets/images/experience/goetz.png"
     subheader="UC San Diego: San Diego Supercomputer Center | Jun 2018 — Jul 2019"
-	description="As a member of the Götz lab, I worked on developing and benchmarking our lab's software infrastructure for running large-scale molecular simulations."
+	description="As a member of the Goetz lab, I worked on developing and benchmarking our lab's machine-learning software infrastructure for running large-scale molecular simulations."
 %}

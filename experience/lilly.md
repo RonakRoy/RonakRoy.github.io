@@ -4,4 +4,5 @@ title: Manufacturing and Robotics Intern
 description: Eli Lilly and Co. | Jun 2021 — Present
 ---
 
-My projects encompassed the drug delivery device assembly lines and mobile autonomous robots for transportation of product and materials throughout the factory.
+* Built a data organization system that enables process engineers to improve efficiency on the assembly line for the Trulicity autoinjector.
+* Developed a robotic automation strategy that utilizes industrial robots in the drug device and packaging facility.
