@@ -1,3 +1,27 @@
+- term: Fall 2021
+  classes:
+    - number: 2.005
+      name: Thermal-Fluids Engineering I
+      dept: MechE
+      type: Core
+      description: Integrated development of the fundamental principles of thermodynamics, fluid mechanics, and heat transfer, with applications. Focuses on the first and second laws of thermodynamics, mass conservation, and momentum conservation, for both closed and open systems. Entropy generation and its influence on the performance of engineering systems. Introduction to dimensionless numbers. Introduction to heat transfer-conduction, convection, and radiation. Steady-state and transient conduction. Finned surfaces. The heat equation and the lumped capacitance model. Coupled and uncoupled fluid models. Hydrostatics. Inviscid flow analysis and Bernoulli equation. Navier-Stokes equation and its solutions. Viscous internal flows, head losses, and turbulence. Introduction to pipe flows and Moody chart.
+    - number: 2.671
+      name: Measurement and Instrumentation
+      dept: MechE
+      type: Core
+      description: Experimental techniques for observation and measurement of physical variables such as force, strain, temperature, flow rate, and acceleration. Emphasizes principles of transduction, measurement circuitry, MEMS sensors, Fourier transforms, linear and nonlinear function fitting, uncertainty analysis, probability density functions and statistics, system identification, electrical impedance analysis and transfer functions, computer-aided experimentation, and technical reporting. Typical laboratory experiments involve oscilloscopes, electronic circuits including operational amplifiers, thermocouples, strain gauges, digital recorders, lasers, etc. Basic material and lab objectives are developed in lectures. Instruction and practice in oral and written communication provided.
+    - number: 6.014
+      name: Electromagnetic Fields, Forces and Motion
+      dept: EECS
+      type: Header
+      description: Study of electromagnetics and electromagnetic energy conversion leading to an understanding of devices, including electromagnetic sensors, actuators, motors and generators. Quasistatic Maxwell's equations and the Lorentz force law. Studies of the quasistatic fields and their sources through solutions of Poisson's and Laplace's equations. Boundary conditions and multi-region boundary-value problems. Steady-state conduction, polarization, and magnetization. Charge conservation and relaxation, and magnetic induction and diffusion. Extension to moving materials. Electric and magnetic forces and force densities derived from energy, and stress tensors. Extensive use of engineering examples. Students taking graduate version complete additional assignments.
+    - number: 14.01
+      name: Principles of Microeconomics
+      dept: HASS
+      type: Economics
+      description: Introduces microeconomic concepts and analysis, supply and demand analysis, theories of the firm and individual behavior, competition and monopoly, and welfare economics. Applications to problems of current economic policy.
+
+
 - term: Spring 2021
   classes:
     - number: 2.003

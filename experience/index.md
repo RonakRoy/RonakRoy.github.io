@@ -8,7 +8,7 @@ description: Ever since high school, I have had the privilege of gaining valuabl
 	title="Manufacturing and Robotics Intern"
 	page_url="/experience/lilly"
 	image_path="/assets/images/experience/lilly.png"
-	subheader="Eli Lilly and Co. | Jun 2021 — Present"
+	subheader="Eli Lilly and Co. | Jun 2021 — Aug 2021"
 	description="I built a data organization system that enables process engineers to improve efficiency on the assembly line for the Trulicity autoinjector. I also developed a robotic automation strategy that utilizes industrial robots in the drug device and packaging facility."
 %}
 
