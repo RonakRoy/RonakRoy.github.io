@@ -87,6 +87,16 @@ body {
   }
 }
 
+img {
+  width: 100%;
+  max-width: $small_width - 4*$normal_margin;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 8px;
+  margin-bottom: 4px;
+}
+
 p {
   padding: 0px;
   margin: 0px;
