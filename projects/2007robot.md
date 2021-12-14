@@ -1,7 +1,7 @@
 ---
 layout: detailpage
 title: 2.007 Competition Robot
-description: Sep 2019 — Oct 2019
+description: Feb 2021 — May 2021
 ---
 
 Every year, each student of 2.007: Design and Manufacturing I designs and fabricates a robot to compete in the class competition. This is my robot for the 2021 competition, Home Alone Together. In Spring 2021, due to the coronavirus, the class was taught remotely. As such, we had to design and fabricate our entire robot using only hand tools that were shipped to us.

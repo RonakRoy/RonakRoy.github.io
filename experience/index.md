@@ -5,7 +5,7 @@ description: Ever since high school, I have had the privilege of gaining valuabl
 ---
 
 {% include card.html
-	title="Manufacturing and Robotics Intern"
+	title="Manufacturing and Robotics Engineering Intern"
 	page_url="/experience/lilly"
 	image_path="/assets/images/experience/lilly.png"
 	subheader="Eli Lilly and Co. | Jun 2021 — Aug 2021"

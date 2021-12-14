@@ -13,7 +13,22 @@ As Responsible Engineer (RE) for the rear suspension, I was in charge of the ass
 
 <br>
 
-I was also responsible for machining the upper shock mounts (pictured below) using a Prototrak 3-axis CNC mill. I used Autodesk HSMWorks in Solidworks to generate the toolpath. Starting with a larger block of stock aluminum, I manually milled and faced the block to the correct size, drilled into the side, and ran the toolpath (which used ¼” flat, ⅛” flat, and ¼” ball endmills for the roughing, contours, and finishing, respectively).
+I was also responsible for machining the upper shock mounts (pictured below) using a Prototrak 3-axis CNC mill. I used Autodesk HSMWorks in Solidworks to make the toolpath. Starting with the blocks of aluminum stock, I manually faced the block to the correct size and drilled the lateral bolt hole. Then, I ran the toolpath to make the part.
+
+<br>
+
+![](/assets/images/projects/backsuspension_tp1.png)
+<div class="caption">First operation: adaptive clearing with a ¼” flat endmill. </div>
+
+<br>
+
+![](/assets/images/projects/backsuspension_tp2.png)
+<div class="caption">Second operation: 2D contour with a ⅛” flat endmill.</div>
+
+<br>
+
+![](/assets/images/projects/backsuspension_tp3.png)
+<div class="caption">Third operation: pocket/3D contour with a ⅛” ball endmill.</div>
 
 <br>
 

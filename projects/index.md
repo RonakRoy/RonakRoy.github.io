@@ -5,11 +5,19 @@ description: Here, you can learn more about some of the projects I've worked on 
 ---
 
 {% include card.html
+    title="2.671 Go Forth and Measure Project"
+    page_url="/projects/2671goforth"
+    image_path="/assets/images/projects/goforth_expdiag.png"
+    subheader="Sep 2021 — Dec 2021"
+    description="In 2.671: Measurement and Instrumentation, students conduct a term-long project known as the Go Forth and Measure Project, in which we use the measurement and analysis techniques learned in the class to investigate a question of our choosing. I constructed an experimental setup that constantly monitors soil moisture level and pumps water to maintain it."
+%}
+
+{% include card.html
     title="2.007 Competition Robot"
     page_url="/projects/2007robot"
     image_path="/assets/images/projects/2007robot.jpg"
     subheader="Feb 2021 — May 2021"
-    description="Every year, each student of 2.007: Design and Manufacturing I designs and fabricates a robot to compete in the class competition.This is my robot for the 2021 competition, Home Alone Together."
+    description="Every year, each student of 2.007: Design and Manufacturing I designs and fabricates a robot to compete in the class competition. This was my robot for the 2021 competition: \"Home Alone Together\"."
 %}
 
 {% include card.html
