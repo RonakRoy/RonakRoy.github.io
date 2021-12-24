@@ -9,7 +9,7 @@ description: Here, you can learn more about some of the projects I've worked on 
     page_url="/projects/2671goforth"
     image_path="/assets/images/projects/goforth_expdiag.png"
     subheader="Sep 2021 — Dec 2021"
-    description="In 2.671: Measurement and Instrumentation, students conduct a term-long project known as the Go Forth and Measure Project, in which we use the measurement and analysis techniques learned in the class to investigate a question of our choosing. I constructed an experimental setup that constantly monitors soil moisture level and pumps water to maintain it."
+    description="The semester-long project in 2.671: Measurement and Instrumentation is the Go Forth and Measure Project, in which we use measurement and analysis techniques learned in class to investigate a question of our choosing. I constructed an experimental setup that constantly monitors soil moisture level and pumps water to maintain it."
 %}
 
 {% include card.html
