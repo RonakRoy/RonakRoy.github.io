@@ -8,8 +8,8 @@ description: Over the past few years, I've had the honor, the privilege, and the
     title="MIT Solar Electric Vehicle Team"
     page_url="/teams/sevt"
     image_path="/assets/images/teams/sevt.jpeg"
-    subheader="Sep 2020 — Present"
-    description=" At MIT, I am a part of the American Solar Challenge team. In the ASC, we design and build an electric car powered completely using the car-mounted solar panels to race in an over 1300 mile, cross-country race."
+    subheader="Sep 2020 — May 2022"
+    description=" At MIT, I was a part of the American Solar Challenge team. In the ASC, we design and build an electric car powered completely using the car-mounted solar panels to race in an over 1300 mile, cross-country race."
 %}
 
 {% include card.html

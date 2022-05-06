@@ -5,6 +5,30 @@ description: Here, you can learn more about some of the projects I've worked on 
 ---
 
 {% include card.html
+    title="Pappalardo Apprenticeship: Stirling Engine"
+    page_url="/projects/stirlingengine"
+    image_path="/assets/images/projects/stirlingengine.png"
+    subheader="Feb 2022 — May 2022"
+    description="Details coming soon!"
+%}
+
+{% include card.html
+    title="2.12 Autonomous Excavation Robot"
+    page_url="/projects/212robot"
+    image_path="/assets/images/projects/212robot.png"
+    subheader="Feb 2022 — May 2022"
+    description="Details coming soon!"
+%}
+
+{% include card.html
+    title="Smart Room Upgrades"
+    page_url="/projects/smartroom"
+    image_path="/assets/images/projects/smartroom.png"
+    subheader="Jan 2022"
+    description="Details coming soon!"
+%}
+
+{% include card.html
     title="2.671 Go Forth and Measure Project"
     page_url="/projects/2671goforth"
     image_path="/assets/images/projects/goforth_expdiag.png"

@@ -1,3 +1,31 @@
+- term: Spring 2022
+  classes:
+    - number: 2.12
+      name: Introduction to Robotics
+      dept: MechE
+      type: Advanced Elective
+      description: Cross-disciplinary studies in robot mechanics and intelligence. Emphasizes physical understanding of robot kinematics and dynamics, differential motion and energy method, design and control of robotic arms and mobile robots, and actuators, drives, and transmission. Second half of course focuses on algorithmic thinking and computation, computer vision and perception, planning and control for manipulation, localization and navigation, machine learning for robotics, and human-robot systems. Weekly laboratories include brushless DC motor control, design and fabrication of robotic arms and vehicles, robot vision and navigation, and programming and system integration using Robot Operating System (ROS). Group term project builds intelligent robots for specific applications of interest. 
+    - number: 2.S994
+      name: Pappalardo Apprenticeship I
+      dept: MechE
+      type: Advanced Elective
+      description: The Pappalardo Apprentice series is designed to further develop fabrication skills, and provide mentor training and opportunities for peer-to-peer mentoring. The objective is to push the boundaries of the lab experience, further developing students' skills and the workspace as one of the safest, most productive, positive, and creative labs on campus. The program has two primary areas of emphasis.<br><b>1. Peer mentoring.</b>Apprentices are undergraduate lab assistants for 2.007, required signing-on to a regularly scheduled 2.007 lab section and an additional three-hour lab block to assist 2.007 students with fabrication, including machining, hand-tool use, materials and supplies assistance, brainstorming, and general peer-to-peer support.<br><b>2. Project work.</b> Apprentices will participate in a series of seminars and clinics to refresh and further their fabrication knowledge and hands-on skills, including mill and lathe use, CAD/CAM, and patternmaking. Weekly seminars and practicum cover a variety of topics such as shop best practices, machine setup, chip formation, fixturing, material selection, and physical metallurgy. Junior apprentices have the full-term project of fabricating a Stirling engine.
+    - number: 6.832
+      name: Underactuated Robotics
+      dept: EECS
+      type: Graduate
+      description: Covers nonlinear dynamics and control of underactuated mechanical systems, with an emphasis on computational methods. Topics include the nonlinear dynamics of robotic manipulators, applied optimal and robust control and motion planning. Discussions include examples from biology and applications to legged locomotion, compliant manipulation, underwater robots, and flying machines.
+    - number: 17.265
+      name: Public Opinion and American Democracy
+      dept: HASS
+      type: PoliSci
+      description: Introduces students to public opinion in politics and public policymaking. Surveys theories of political psychology and political behavior. Examines empirical research on public understanding of and attitudes towards important issues, including war, economic and social policies, and moral questions.
+    - number: 3.985
+      name: Archaeological Science
+      dept: HASS
+      type: Material Sci/Eng
+      description: Pressing issues in archaeology as an anthropological science. Stresses the natural science and engineering methods archaeologists use to address these issues. Reconstructing time, space, and human ecologies provides one focus; materials technologies that transform natural materials to material culture provide another. Topics include 14C dating, ice core and palynological analysis, GIS and other remote sensing techniques for site location, organic residue analysis, comparisons between Old World and New World bronze production, invention of rubber by Mesoamerican societies, analysis and conservation of Dead Sea Scrolls.
+
 - term: Fall 2021
   classes:
     - number: 2.005
@@ -37,7 +65,7 @@
     - number: 6.302
       name: Feedback System Design
       dept: EECS
-      type: Advanced Subject
+      type: Advanced Elective
       description: Learn-by-design introduction to modeling and control of discrete- and continuous-time systems, from classical analytical techniques to modern computational strategies. Topics include modeling (difference/differential equations, natural frequencies, transfer functions, frequency response, impedances);  performance metrics (stability, tracking, disturbance rejection); classical design (root-locus, PID, lead-lag); state-space (ABCD matrices, pole placement, LQR, observers); and data-driven design (regression,identification, model-based control). Students apply concepts introduced in lectures and online assignments to design labs that include discussion-based checkoffs. In lab, students use circuits, sensors, actuators, and a microcontroller to design, build and test controllers for, e.g., propeller-actuated positioners, magnetic levitators, and two-wheel balancers. Students taking graduate version complete additional assignments.
     - number: 6.08
       name: Interconnected Embedded Systems
