@@ -61,6 +61,14 @@ description: Here, you can learn more about some of the projects I've worked on 
 %}
 
 {% include card.html
+    title="NarwhalDashboard"
+    page_url="/projects/narwhaldashboard"
+    image_path="/assets/images/projects/nardash.png"
+    subheader="Aug 2018 — Jun 2019"
+    description="I developed a custom, web-socket based web dashboard for robot communication as Head of Controls on my FIRST Robotics Competition Team."
+%}
+
+{% include card.html
     title="Sun-Tracking Solar Panel"
     page_url="/projects/suntracking"
     image_path="/assets/images/projects/solar.jpg"
@@ -76,18 +84,12 @@ description: Here, you can learn more about some of the projects I've worked on 
     description="I developed my independent research project, the Smartphone-Controlled Portable Phoropter Powered by Variable Focal Length Liquid Lens, which won awards at the Intel ISEF and REGENERON STS."
 %}
 
-{% include card.html
-    title="NarwhalDashboard"
-    page_url="/projects/narwhaldashboard"
-    image_path="/assets/images/projects/nardash.png"
-    subheader="Aug 2018 — Jun 2019"
-    description="I developed a custom, web-socket based web dashboard for robot communication as Head of Controls on my FIRST Robotics Competition Team."
-%}
 
-{% include card.html
+
+<!-- {% include card.html
     title="FRC Team 3128's Website"
     page_url="/projects/frc3128website"
     image_path="/assets/images/projects/team3128.png"
     subheader="Mar 2016 — Jun 2019"
     description="I built and maintained the website for my high school's FIRST Robotics Competition team from scratch in HTML/CSS/JS using Jekyll."
-%}
+%} -->

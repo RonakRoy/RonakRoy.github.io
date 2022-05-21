@@ -4,15 +4,15 @@ layout: splashpage
 
 {% include card.html
     title="Education"
-    page_url="/coursework/"
+    page_url="/education/"
     image_path="/assets/images/mit.jpeg"
-    description="A theoretical knowledge is the foundation of my skillset as an engineer, and I've sought to grow that foundation from inside the classroom. As a student at MIT, I've had the privilege to take fascinating classes not only in my field, but in HASS (humanities, arts, and social sciences) and other engineering subjects." %}
+    description="A formal education serves as the foundation of an engineer's knowledge and abilities. As a student at MIT, I've had the privilege to take fascinating classes not only in Mechanical and Electrical Engineering, but also in the humanities, arts, and social sciences." %}
 
 {% include card.html
     title="Experience"
     page_url="/experience/"
     image_path="/assets/images/experience.jpeg"
-    description="I've been able to apply my knowledge of computer science, electronics, and mechanical engineering both as a part of research at MIT and UC San Diego as well as engineering internships in industry, at companies like Eli Lilly and Co." %}
+    description="I've been able to apply my knowledge of computer science, electronics, and mechanical engineering both as a part of research at MIT and UC San Diego as well as engineering internships in industry at companies including Tesla." %}
 
 {% include card.html
     title="Engineering Teams"
