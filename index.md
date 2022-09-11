@@ -12,7 +12,7 @@ layout: splashpage
     title="Experience"
     page_url="/experience/"
     image_path="/assets/images/experience.jpeg"
-    description="I've been able to apply my knowledge of computer science, electronics, and mechanical engineering both as a part of research at MIT and UC San Diego as well as engineering internships in industry at companies including Tesla." %}
+    description="I've been able to apply my knowledge of mechanical engineering, electronics, and software through industries internships at Tesla and other companies, as well as research at MIT and UC San Diego." %}
 
 {% include card.html
     title="Engineering Teams"
