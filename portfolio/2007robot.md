@@ -15,11 +15,11 @@ Every year, each student of 2.007: Design and Manufacturing I designs and fabric
 
 <br>
 
-<iframe height="600px" width="100%" src="/assets/images/projects/2007design.pdf"></iframe>
+<iframe height="600px" width="100%" src="/assets/images/portfolio/2007design.pdf"></iframe>
 <div class="caption">My design review document that goes over the aspects of each component of my robot.</div>
 
 
 <br>
 
-![](/assets/images/projects/2007robot.jpg)
+![](/assets/images/portfolio/2007robot.jpg)
 <div class="caption">My finished robot!</div>

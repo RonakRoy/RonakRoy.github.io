@@ -8,7 +8,7 @@ As Responsible Engineer (RE) for the rear suspension, I was in charge of the ass
 
 <br>
 
-![](/assets/images/projects/backsuspension_cad.jpg)
+![](/assets/images/portfolio/backsuspension_cad.jpg)
 <div class="caption">The CAD rendering of the back suspension of Nimbus, MIT SEVT's 2020 vehicle. The wheels and motor are hidden in the CAD rendering.</div>
 
 <br>
@@ -17,20 +17,20 @@ I was also responsible for machining the upper shock mounts (pictured below) usi
 
 <br>
 
-![](/assets/images/projects/backsuspension_tp1.png)
+![](/assets/images/portfolio/backsuspension_tp1.png)
 <div class="caption">First operation: adaptive clearing with a ¼” flat endmill. </div>
 
 <br>
 
-![](/assets/images/projects/backsuspension_tp2.png)
+![](/assets/images/portfolio/backsuspension_tp2.png)
 <div class="caption">Second operation: 2D contour with a ⅛” flat endmill.</div>
 
 <br>
 
-![](/assets/images/projects/backsuspension_tp3.png)
+![](/assets/images/portfolio/backsuspension_tp3.png)
 <div class="caption">Third operation: pocket/3D contour with a ⅛” ball endmill.</div>
 
 <br>
 
-![](/assets/images/projects/backsuspension.jpg)
+![](/assets/images/portfolio/backsuspension.jpg)
 <div class="caption">The three mounts I fabricated: (left-to-right) my initial attempt, my second attempt with only the roughing pass, and my final attempt with the finishing pass completed. The latter two parts made it to the final car.</div>

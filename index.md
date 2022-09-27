@@ -21,7 +21,7 @@ layout: splashpage
     description="My FRC and ASC teams have given me hands-on engineering learning opportunities. Through these programs, I've learned about controls systems, mechanical design, and manufacturing, but most importantly, I've made amazing, passionate friends who've enabled me to grow as an engineer, as a leader, and as a person." %}
 
 {% include card.html
-    title="Projects"
-    page_url="/projects/"
-    image_path="/assets/images/projects.png"
+    title="Portfolio"
+    page_url="/portfolio/"
+    image_path="/assets/images/portfolio.png"
     description="Last, but certainly not least, I've employed the engineering process of design, build, test, repeat on personal projects as well as projects for classes and my engineering teams. Forging ahead using all the resources at my disposal have allowed me to learn (and fail) a lot, while making some cool things along the way." %}

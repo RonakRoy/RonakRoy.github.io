@@ -8,17 +8,17 @@ For my final project in my high school AP Environmental Science class, I develop
 
 <br>
 
-![](/assets/images/projects/solar.jpg)
+![](/assets/images/portfolio/solar.jpg)
 <div class="caption">Isometric CAD rendering of the design.</div>
 
 <br>
 
-![](/assets/images/projects/solar_side.jpg)
+![](/assets/images/portfolio/solar_side.jpg)
 <div class="caption">Side-view CAD rendering of the design.</div>
 
 <br>
 
-![](/assets/images/projects/solar_top.jpg)
+![](/assets/images/portfolio/solar_top.jpg)
 <div class="caption">Top-view CAD rendering of the design.</div>
 
 <br>
@@ -26,13 +26,13 @@ For my final project in my high school AP Environmental Science class, I develop
 I then wrote an OpenCV app in Java that communicated with the Arduino over the Serial interface, sending desired angle commands that were calculated based on a stream running to determine the relative position of the sun using a webcam fixed to the upper platform (shown in red on the CAD).
 
 
-![](/assets/images/projects/solar_block.png)
+![](/assets/images/portfolio/solar_block.png)
 <div class="caption">High-level block diagram of the system.</div>
 
 <br>
 
 
-![](/assets/images/projects/solar_real.png)
+![](/assets/images/portfolio/solar_real.png)
 <div class="caption">The constructed system.</div>
 
 <br>

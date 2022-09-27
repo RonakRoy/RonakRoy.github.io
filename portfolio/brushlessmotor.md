@@ -12,7 +12,7 @@ For my freshman year advising seminar, I designed and fabricated a fully package
 
 <br>
 
-![](/assets/images/projects/motor_exploded.jpg)
+![](/assets/images/portfolio/motor_exploded.jpg)
 <div class="caption">An exploded view of the motor's CAD, depicting (from top to bottom) the rotor, stator, electronics panel, and base case.</div>
 
 <br>
@@ -24,10 +24,10 @@ For my freshman year advising seminar, I designed and fabricated a fully package
 
 <br>
 
-![](/assets/images/projects/motor.png)
+![](/assets/images/portfolio/motor.png)
 <div class="caption">The stator portion of the motor. The inrunner design allows the coils are on the inside of the motor, allowing for more torque on the permanent magnet-including rotor.</div>
 
 <br>
 
-![](/assets/images/projects/motor_electronics.jpg)
+![](/assets/images/portfolio/motor_electronics.jpg)
 <div class="caption">The electronics panel of the motor. The Teensy, micro-USB power breakout board, and dual H-drive PCBs were all slotted into a custom-designed, laser-cut acrylic panel that allowed the electrical connections to be made via wire-wraps on the underside of the board.</div>

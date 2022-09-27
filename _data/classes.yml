@@ -1,3 +1,27 @@
+- term: Fall 2022
+  classes:
+    - number: 2.009
+      name: The Product Engineering Process
+      dept: MechE
+      type: Core
+      description: Students develop an understanding of product development phases and experience working in teams to design and construct high-quality product prototypes. Design process learned is placed into a broader development context. Primary goals are to improve ability to reason about design alternatives and apply modeling techniques appropriate for different development phases; understand how to gather and process customer information and transform it into engineering specifications; and use teamwork to resolve the challenges in designing and building a substantive product prototype. Instruction and practice in oral communication provided.
+    - number: 2.74
+      name: Bio-inspired Robotics
+      dept: MechE
+      type: Advanced Elective
+      description: "Interdisciplinary approach to bio-inspired design, with emphasis on principle extraction applicable to various robotics research fields, such as robotics, prosthetics, and human assistive technologies. Focuses on three main components: biomechanics, numerical techniques that allow multi-body dynamics simulation with environmental interaction and optimization, and basic robotics techniques and implementation skills. Students integrate the components into a final robotic system project of their choosing through which they must demonstrate their understanding of dynamics and control and test hypothesized design principles."
+    - number: 6.UAR
+      name: Seminar in Undergraduate Advanced Research
+      units: 6
+      dept: EECS
+      type: Communication
+      description: Instruction in effective undergraduate research, including choosing and developing a research topic, surveying previous work and publications, research topics in EECS and the School of Engineering, industry best practices, design for robustness, technical presentation, authorship and collaboration, and ethics. Students engage in extensive written and oral communication exercises, in the context of an approved advanced research project.
+    - number: 21M.600
+      name: Introduction to Acting
+      dept: HASS
+      type: Theatre
+      description: "Explores the actor's tools: body, voice, mind, imagination, and the essential self. Through studio exercises, students address issues of honesty and creativity in the theatrical moment, and begin to have a sense of their strengths and limitations as communicating theatrical artists. Provides an opportunity for students to discover their relationship to 'the other' in the acting partner, the group, the environment, and the audience."
+
 - term: Spring 2022
   classes:
     - number: 2.12
@@ -9,7 +33,7 @@
       name: Pappalardo Apprenticeship I
       dept: MechE
       type: Advanced Elective
-      description: The Pappalardo Apprentice series is designed to further develop fabrication skills, and provide mentor training and opportunities for peer-to-peer mentoring. The objective is to push the boundaries of the lab experience, further developing students' skills and the workspace as one of the safest, most productive, positive, and creative labs on campus. The program has two primary areas of emphasis.<br><b>1. Peer mentoring.</b>Apprentices are undergraduate lab assistants for 2.007, required signing-on to a regularly scheduled 2.007 lab section and an additional three-hour lab block to assist 2.007 students with fabrication, including machining, hand-tool use, materials and supplies assistance, brainstorming, and general peer-to-peer support.<br><b>2. Project work.</b> Apprentices will participate in a series of seminars and clinics to refresh and further their fabrication knowledge and hands-on skills, including mill and lathe use, CAD/CAM, and patternmaking. Weekly seminars and practicum cover a variety of topics such as shop best practices, machine setup, chip formation, fixturing, material selection, and physical metallurgy. Junior apprentices have the full-term project of fabricating a Stirling engine.
+      description: The Pappalardo Apprentice series is designed to further develop fabrication skills, and provide mentor training and opportunities for peer-to-peer mentoring. The objective is to push the boundaries of the lab experience, further developing students' skills and the workspace as one of the safest, most productive, positive, and creative labs on campus. The program has two primary areas of emphasis.<br><b>1. Peer mentoring.</b> Apprentices are undergraduate lab assistants for 2.007, required signing-on to a regularly scheduled 2.007 lab section and an additional three-hour lab block to assist 2.007 students with fabrication, including machining, hand-tool use, materials and supplies assistance, brainstorming, and general peer-to-peer support.<br><b>2. Project work.</b> Apprentices will participate in a series of seminars and clinics to refresh and further their fabrication knowledge and hands-on skills, including mill and lathe use, CAD/CAM, and patternmaking. Weekly seminars and practicum cover a variety of topics such as shop best practices, machine setup, chip formation, fixturing, material selection, and physical metallurgy. Junior apprentices have the full-term project of fabricating a Stirling engine.
     - number: 6.832
       name: Underactuated Robotics
       dept: EECS
@@ -61,7 +85,7 @@
       name: Design and Manufacturing I
       dept: MechE
       type: Core
-      description: Develops students' competence and self-confidence as design engineers. Emphasis on the creative design process bolstered by application of physical laws. Instruction on how to complete projects on schedule and within budget. Robustness and manufacturability are emphasized. Subject relies on active learning via a major design-and-build project. Lecture topics include idea generation, estimation, concept selection, visual thinking, computer-aided design (CAD), mechanism design, machine elements, basic electronics, technical communication, and ethics. 
+      description: Develops students' competence and self-confidence as design engineers. Emphasis on the creative design process bolstered by application of physical laws. Instruction on how to complete portfolio on schedule and within budget. Robustness and manufacturability are emphasized. Subject relies on active learning via a major design-and-build project. Lecture topics include idea generation, estimation, concept selection, visual thinking, computer-aided design (CAD), mechanism design, machine elements, basic electronics, technical communication, and ethics. 
     - number: 6.302
       name: Feedback System Design
       dept: EECS

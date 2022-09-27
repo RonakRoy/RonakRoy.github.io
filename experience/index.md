@@ -5,6 +5,14 @@ description: Ever since high school, I have had the privilege of gaining valuabl
 ---
 
 {% include card.html
+	title="Mechanical Design Engineering Intern - Power Electronics"
+	page_url="/experience/tesla"
+	image_path="/assets/images/experience/tesla.png"
+	subheader="Tesla | May 2022 — Aug 2021"
+	description="I designed, simulated, and tested custom electromagnetic components, high-voltage connectors, and thermal management hardware for next-generation high voltage power conversion systems used in residential energy storage applications."
+%}
+
+{% include card.html
 	title="Manufacturing and Robotics Engineering Intern"
 	page_url="/experience/lilly"
 	image_path="/assets/images/experience/lilly.png"

@@ -8,5 +8,5 @@ In 2.671: Measurement and Instrumentation, the Junior-level laboratory course in
 
 <br>
 
-<iframe height="600px" width="100%" src="/assets/images/projects/2671finalpaper.pdf"></iframe>
+<iframe height="600px" width="100%" src="/assets/images/portfolio/2671finalpaper.pdf"></iframe>
 <div class="caption">My final paper detailing my experiment and its results.</div>
