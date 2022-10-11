@@ -4,13 +4,6 @@ title: "Portfolio"
 description: Here, you can learn more about some of the projects I've worked on for engineering teams and classes, as well as my personal projects.
 ---
 
-{% include card.html
-    title="Pappalardo Apprenticeship: Stirling Engine"
-    page_url="/portfolio/stirlingengine"
-    image_path="/assets/images/portfolio/stirlingengine.png"
-    subheader="Feb 2022 — May 2022"
-    description="Details coming soon!"
-%}
 
 {% include card.html
     title="2.12 Autonomous Excavation Robot"
@@ -19,6 +12,23 @@ description: Here, you can learn more about some of the projects I've worked on 
     subheader="Feb 2022 — May 2022"
     description="Details coming soon!"
 %}
+
+{% include card.html
+    title="Stirling Engine"
+    page_url="/portfolio/stirlingengine"
+    image_path="/assets/images/portfolio/stirlingengine.png"
+    subheader="Feb 2022 — May 2022"
+    description="Details coming soon!"
+%}
+
+{% include card.html
+    title="6.832 Egg-Flipping Spatula Controller"
+    page_url="/portfolio/6832eggflipper"
+    image_path="/assets/images/portfolio/6832eggflipper.png"
+    subheader="Mar 2022 — May 2022"
+    description="Details coming soon!"
+%}
+
 
 {% include card.html
     title="Smart Room Upgrades"
