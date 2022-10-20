@@ -10,7 +10,7 @@ description: Here, you can learn more about some of the projects I've worked on 
     page_url="/portfolio/212robot"
     image_path="/assets/images/portfolio/212robot.png"
     subheader="Feb 2022 — May 2022"
-    description="Details coming soon!"
+    description="The term project in Intro to Robotics was to modify a mobile robot to scoop and deposit \"lunar regolith.\" We developed a 3-DOF robot scoop mechanism with steppers and DC motors, and I wrote the backing suite of ROS nodes for low level feedback control, computer vision-based localization and detection, and trajectory planning and execution."
 %}
 
 {% include card.html
@@ -18,7 +18,7 @@ description: Here, you can learn more about some of the projects I've worked on 
     page_url="/portfolio/stirlingengine"
     image_path="/assets/images/portfolio/stirlingengine.png"
     subheader="Feb 2022 — May 2022"
-    description="Details coming soon!"
+    description="As a Pappalardo Apprentice, I designed a Stirling engine that I fabricated with a mix of CNC and manual machining on the mill and lathe. It was an assembly with over a dozen parts, which I machined to have tolerances tight enough to enable the engine to spin at over 300 RPM."
 %}
 
 {% include card.html
@@ -26,16 +26,15 @@ description: Here, you can learn more about some of the projects I've worked on 
     page_url="/portfolio/6832eggflipper"
     image_path="/assets/images/portfolio/6832eggflipper.png"
     subheader="Mar 2022 — May 2022"
-    description="Details coming soon!"
+    description="For my final project in Underactuated Robotics, I developed a controller that could flip an egg upside down to make an over-easy fried egg. I derived my controller using trajectory optimization with custom-implemented constraints for contact dynamics."
 %}
-
 
 {% include card.html
     title="Smart Room Upgrades"
     page_url="/portfolio/smartroom"
     image_path="/assets/images/portfolio/smartroom.png"
     subheader="Jan 2022"
-    description="Details coming soon!"
+    description="Over IAP 2022, I tackled a mini-personal project to connect the lights and door in my room with the rest of my smart-home setup. I designed a system that was able to detect light switch state state and physically interact with the switch and door handle without interfering with manual operation."
 %}
 
 {% include card.html
@@ -51,7 +50,7 @@ description: Here, you can learn more about some of the projects I've worked on 
     page_url="/portfolio/2007robot"
     image_path="/assets/images/portfolio/2007robot.jpg"
     subheader="Feb 2021 — May 2021"
-    description="Every year, each student of 2.007: Design and Manufacturing I designs and fabricates a robot to compete in the class competition. This was my robot for the 2021 competition: \"Home Alone Together\"."
+    description="Every year, each student of 2.007: Design and Manufacturing I designs and fabricates a robot to compete in the class competition. My robot for the 2021 competition: \"Home Alone Together\" was able to extend to twice its height to lift 8kg, push game elements, and both cut and ride down a zipline."
 %}
 
 {% include card.html
@@ -67,7 +66,7 @@ description: Here, you can learn more about some of the projects I've worked on 
     page_url="/portfolio/brushlessmotor"
     image_path="/assets/images/portfolio/motor.png"
     subheader="Sep 2019 — Oct 2019"
-    description="As a part of my freshman year advising seminar, 6.A01, I designed and fabricated fully-functional DC motor I designed and fabricated from scratch."
+    description="As a part of my freshman year advising seminar, 6.A01, I designed and fabricated fully-functional brushless DC motor from scratch. It featured wire-wound electromagnetic coils, an outrunner-style rotor with embedded permanent magnets, and a custom electronics panel that enabled four-phase control."
 %}
 
 {% include card.html

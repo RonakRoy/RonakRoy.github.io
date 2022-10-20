@@ -4,7 +4,9 @@ title: Brushless DC Motor
 description: Sep 2019 — Oct 2019
 ---
 
-For my freshman year advising seminar, I designed and fabricated a fully packaged, Teensy-controlled, four-phase brushless DC motor. I fabricated it using 3D printing and laser cutting. The motor consisted of four components:
+As a part of my freshman year advising seminar, 6.A01, I designed and fabricated fully-functional brushless DC motor from scratch. It featured wire-wound electromagnetic coils, an outrunner-style rotor with embedded permanent magnets, and a custom electronics panel that enabled four-phase control.
+
+My motor design consisted of four components:
 * **Rotor:** Contains 12 press-fit permanent magnets, mounted on a D-shaft
 * **Stator:** Contains 8 drill-wound coils and two hall effect sensors for phase sensing
 * **Electronics Panel:** Contains the Teensy, micro-USB breakout board, and two dual H-drives to control each electromagnet pair
@@ -17,9 +19,8 @@ For my freshman year advising seminar, I designed and fabricated a fully package
 
 <br>
 
-<div class="video-container">
-    <iframe class="video" src="https://www.youtube.com/embed/Bt2ri2_LXuo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+
+{% include youtubevideo.html urltail='Bt2ri2_LXuo'%}
 <div class="caption">A video of my assembled motor running!</div>
 
 <br>

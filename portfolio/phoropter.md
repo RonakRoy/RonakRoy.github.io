@@ -9,9 +9,8 @@ I invented a patent-pending, low-cost, and portable device used to determine eye
 <br>
 
 ##### Veritasium Video
-<div class="video-container">
-    <iframe class="video" src="https://www.youtube.com/embed/q3kSW633bsk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+
+{% include youtubevideo.html urltail='q3kSW633bsk'%}
 <div class="caption">Check out this video by Derek Muller, better known as the creator of the popular science YouTube channel (with almost 10 million subscribers) Veritasium, who covered my project and two others from the 2019 Regeneron Science Talent Search.</div>
 
 <br>

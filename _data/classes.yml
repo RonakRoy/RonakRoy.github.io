@@ -2,6 +2,7 @@
   classes:
     - number: 2.009
       name: The Product Engineering Process
+      units: 15
       dept: MechE
       type: Core
       description: Students develop an understanding of product development phases and experience working in teams to design and construct high-quality product prototypes. Design process learned is placed into a broader development context. Primary goals are to improve ability to reason about design alternatives and apply modeling techniques appropriate for different development phases; understand how to gather and process customer information and transform it into engineering specifications; and use teamwork to resolve the challenges in designing and building a substantive product prototype. Instruction and practice in oral communication provided.
@@ -18,6 +19,7 @@
       description: Instruction in effective undergraduate research, including choosing and developing a research topic, surveying previous work and publications, research topics in EECS and the School of Engineering, industry best practices, design for robustness, technical presentation, authorship and collaboration, and ethics. Students engage in extensive written and oral communication exercises, in the context of an approved advanced research project.
     - number: 21M.600
       name: Introduction to Acting
+      units: 9
       dept: HASS
       type: Theatre
       description: "Explores the actor's tools: body, voice, mind, imagination, and the essential self. Through studio exercises, students address issues of honesty and creativity in the theatrical moment, and begin to have a sense of their strengths and limitations as communicating theatrical artists. Provides an opportunity for students to discover their relationship to 'the other' in the acting partner, the group, the environment, and the audience."
