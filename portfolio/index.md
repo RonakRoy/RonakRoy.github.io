@@ -30,6 +30,14 @@ description: Here, you can learn more about some of the projects I've worked on 
 %}
 
 {% include card.html
+    title="Gemini Back Suspension Design and Simulation"
+    page_url="/portfolio/geminibacksus"
+    image_path="/assets/images/portfolio/geminibacksus.png"
+    subheader="Jan 2022 — Mar 2022"
+    description="As design lead on the rear suspension system of Gemini, MIT SEVT's upcoming multi-occupant solar car, I pioneered the use of assembly-level FEA to get better stress analysis and help optimize the design."
+%}
+
+{% include card.html
     title="Smart Room Upgrades"
     page_url="/portfolio/smartroom"
     image_path="/assets/images/portfolio/smartroom.png"
@@ -40,9 +48,17 @@ description: Here, you can learn more about some of the projects I've worked on 
 {% include card.html
     title="2.671 Go Forth and Measure Project"
     page_url="/portfolio/2671goforth"
-    image_path="/assets/images/portfolio/goforth_expdiag.png"
+    image_path="/assets/images/portfolio/2671expdiag.png"
     subheader="Sep 2021 — Dec 2021"
     description="The semester-long project in 2.671: Measurement and Instrumentation is the Go Forth and Measure Project, in which we use measurement and analysis techniques learned in class to investigate a question of our choosing. I constructed an experimental setup that constantly monitors soil moisture level and pumps water to maintain it."
+%}
+
+{% include card.html
+    title="Gemini Front Suspension Geometric Analysis"
+    page_url="/portfolio/geminifrontsus"
+    image_path="/assets/images/portfolio/geminifrontsus.png"
+    subheader="Sep 2021 — Dec 2021"
+    description="For Gemini, MIT SEVT's upcoming multi-occupant solar car, I was a lead on the suspension and steering system. In determining the dimensions of the front double-A arm suspension, I developed a number of analytical tools to quantify the compatibility with the car's aeroshell and dynamic response to bump and droop."
 %}
 
 {% include card.html
@@ -54,11 +70,11 @@ description: Here, you can learn more about some of the projects I've worked on 
 %}
 
 {% include card.html
-    title="Solar Car Back Suspension Mount Machining"
-    page_url="/portfolio/backsuspension"
-    image_path="/assets/images/portfolio/backsuspension.jpg"
+    title="Nimbus Back Suspension Mount Machining"
+    page_url="/portfolio/nimbusbacksus"
+    image_path="/assets/images/portfolio/nimbusbacksus.jpg"
     subheader="Oct 2019 — Jan 2020"
-    description="On the MIT Solar Electric Vehicle Team, I was the Responsible Engineer for the rear suspension on Nimbus, our vehicle for the 2021 American Solar Challenge. One of my tasks was machining the shock mount using a ProtoTRAK CNC mill."
+    description="On the MIT Solar Electric Vehicle Team, I was the Responsible Engineer for the rear suspension on Nimbus, our 2020 and 2022 American Solar Challenge-winning vehicle. One of my tasks was machining the shock mount using a ProtoTRAK CNC mill."
 %}
 
 {% include card.html
@@ -67,14 +83,6 @@ description: Here, you can learn more about some of the projects I've worked on 
     image_path="/assets/images/portfolio/motor.png"
     subheader="Sep 2019 — Oct 2019"
     description="As a part of my freshman year advising seminar, 6.A01, I designed and fabricated fully-functional brushless DC motor from scratch. It featured wire-wound electromagnetic coils, an outrunner-style rotor with embedded permanent magnets, and a custom electronics panel that enabled four-phase control."
-%}
-
-{% include card.html
-    title="NarwhalDashboard"
-    page_url="/portfolio/narwhaldashboard"
-    image_path="/assets/images/portfolio/nardash.png"
-    subheader="Aug 2018 — Jun 2019"
-    description="I developed a custom, web-socket based web dashboard for robot communication as Head of Controls on my FIRST Robotics Competition Team."
 %}
 
 {% include card.html
@@ -93,7 +101,13 @@ description: Here, you can learn more about some of the projects I've worked on 
     description="I developed my independent research project, the Smartphone-Controlled Portable Phoropter Powered by Variable Focal Length Liquid Lens, which won awards at the Intel ISEF and REGENERON STS."
 %}
 
-
+<!-- {% include card.html
+    title="NarwhalDashboard"
+    page_url="/portfolio/narwhaldashboard"
+    image_path="/assets/images/portfolio/nardash.png"
+    subheader="Aug 2018 — Jun 2019"
+    description="I developed a custom, web-socket based web dashboard for robot communication as Head of Controls on my FIRST Robotics Competition Team."
+%} -->
 
 <!-- {% include card.html
     title="FRC Team 3128's Website"
