@@ -4,13 +4,20 @@ title: "Portfolio"
 description: Here, you can learn more about some of the projects I've worked on for engineering teams and classes, as well as my personal projects.
 ---
 
+{% include card.html
+    title="2.74 Horizontal Throwing Arm Robot"
+    page_url="/portfolio/274robot"
+    image_path="/assets/images/portfolio/274robot.png"
+    subheader="Feb 2022 — May 2022"
+    description="I designed and fabricated most of our Bio-inspired Robotics group final project, which was a 3-DOF robot arm, that had two actuated and one spring-loaded joint, that threw projectiles at upwards of 5 m/s."
+%}
 
 {% include card.html
     title="2.12 Autonomous Excavation Robot"
     page_url="/portfolio/212robot"
     image_path="/assets/images/portfolio/212robot.png"
     subheader="Feb 2022 — May 2022"
-    description="The term project in Intro to Robotics was to modify a mobile robot to scoop and deposit \"lunar regolith.\" We developed a 3-DOF robot scoop mechanism with steppers and DC motors, and I wrote the backing suite of ROS nodes for low level feedback control, computer vision-based localization and detection, and trajectory planning and execution."
+    description="The term project in Intro to Robotics was to modify a mobile robot to scoop and deposit \"lunar regolith.\" I designed and fabricated parts of our 3-DOF robot scoop mechanism with steppers and DC motors, and I wrote the backing suite of ROS nodes for low level feedback control, computer vision-based localization and detection, and trajectory planning and execution."
 %}
 
 {% include card.html

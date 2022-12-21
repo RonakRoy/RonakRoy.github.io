@@ -8,8 +8,16 @@ description: Ever since high school, I have had the privilege of gaining valuabl
 	title="Mechanical Design Engineering Intern - Power Electronics"
 	page_url="/experience/tesla"
 	image_path="/assets/images/experience/tesla.png"
-	subheader="Tesla | May 2022 — Aug 2021"
+	subheader="Tesla | May 2022 — Aug 2022"
 	description="I designed, simulated, and tested custom electromagnetic components, high-voltage connectors, and thermal management hardware for next-generation high voltage power conversion systems used in residential energy storage applications."
+%}
+
+{% include card.html
+	title="ReMAP&colon; AFM Rotation-enabled Multi-tip Active Probe Atomic Force Microscopy"
+	page_url="/experience/mrl"
+	image_path="/assets/images/experience/mrl.png"
+	subheader="MIT Mechatronics Research Laboratory | Feb 2022 — Now"
+	description="I am working on the ReMAP AFM (Rotation-enabled Multi-tip Active Probe Atomic Force Microscopy) system."
 %}
 
 {% include card.html
