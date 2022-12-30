@@ -12,17 +12,16 @@ layout: splashpage
     title="Experience"
     page_url="/experience/"
     image_path="/assets/images/experience.jpeg"
-    description="I've been able to apply my knowledge of mechanical engineering, electronics, and software through industries internships at Tesla and other companies, as well as research at MIT and UC San Diego." %}
-
+    description="Through internships at companies like Tesla and in research MIT and UC San Diego, I have been able to apply my knowledge of mechanical engineering, electronics, and software." %}
 
 {% include card.html
     title="Portfolio"
     page_url="/portfolio/"
     image_path="/assets/images/portfolio.png"
-    description="Last, but certainly not least, I've employed the engineering process of design, build, test, repeat on personal projects as well as projects for classes and my engineering teams. Forging ahead using all the resources at my disposal have allowed me to learn (and fail) a lot, while making some cool things along the way." %}
+    description="I've employed the engineering process of design, build, test, repeat on personal projects as well as projects for classes and my engineering teams. Forging ahead using all the resources at my disposal have allowed me to learn a lot (and fail a lot), while making some cool things along the way." %}
 
 {% include card.html
     title="Engineering Teams"
     page_url="/teams/"
     image_path="/assets/images/teams.jpeg"
-    description="My FRC and ASC teams have given me hands-on engineering learning opportunities. Through these programs, I've learned about controls systems, mechanical design, and manufacturing, but most importantly, I've made amazing, passionate friends who've enabled me to grow as an engineer, as a leader, and as a person." %}
+    description="My FRC and ASC teams have given me hands-on engineering learning opportunities. Through these programs, I've learned about controls systems, mechanical design, and manufacturing—but, and most importantly, I've met amazing, passionate people who've enabled me to grow as an engineer, as a leader, and as a person." %}
