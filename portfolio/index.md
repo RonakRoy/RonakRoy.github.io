@@ -16,7 +16,7 @@ filter_selected: all
     title="2.74 Horizontal Throwing Arm Robot"
     page_url="/portfolio/274robot"
     image_path="/assets/images/portfolio/274robot.png"
-    subheader="Feb 2022 — May 2022"
+    subheader="Oct 2022 — Dec 2022"
     description="I designed and fabricated most of our Bio-inspired Robotics group final project, which was a 3-DOF robot arm, that had two actuated and one spring-loaded joint, that threw projectiles at upwards of 5 m/s."
     tags="all class"
 %}
