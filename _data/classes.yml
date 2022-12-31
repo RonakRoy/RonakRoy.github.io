@@ -1,3 +1,28 @@
+- term: Spring 2023 (upcoming)
+  classes:
+    - number: 2.14
+      name: Analysis and Design of Feedback Control Systems
+      dept: MechE
+      type: Advanced Elective
+      description: Develops the fundamentals of feedback control using linear transfer function system models. Analysis in time and frequency domains. Design in the s-plane (root locus) and in the frequency domain (loop shaping). Describing functions for stability of certain non-linear systems. Extension to state variable systems and multivariable control with observers. Discrete and digital hybrid systems and use of z-plane design. Extended design case studies and capstone group projects. Students taking graduate version complete additional assignments.
+    - number: 2.S994 II
+      name: Senior Pappalardo Apprenticeship
+      dept: MechE
+      type: Advanced Elective
+      description: The Pappalardo Apprentice series is designed to further develop fabrication skills, and provide mentor training and opportunities for peer-to-peer mentoring. The objective is to push the boundaries of the lab experience, further developing students' skills and the workspace as one of the safest, most productive, positive, and creative labs on campus. The program has two primary areas of emphasis.<br><b>1. Peer mentoring.</b> Apprentices are undergraduate lab assistants for 2.007, required signing-on to a regularly scheduled 2.007 lab section and an additional three-hour lab block to assist 2.007 students with fabrication, including machining, hand-tool use, materials and supplies assistance, brainstorming, and general peer-to-peer support.<br><b>2. Project work.</b> Apprentices will participate in a series of seminars and clinics to refresh and further their fabrication knowledge and hands-on skills, including mill and lathe use, CAD/CAM, patternmaking, and casting. Weekly seminars and practicum cover a variety of topics such as shop best practices, machine setup, chip formation, fixturing, material selection, and physical metallurgy. Senior apprentices will spend the first half of term focused on iron, with each student casting, machining, and scraping their own camelback straightedge. The second half of term  focuses on copper alloys, with Senior apprentices continuing fabrication of a replica of an 1899 anchor windlass from the Herreshoff Manufacturing Company, used on the famous New York 70 class sloops.
+    - number: "6.3000"
+      name: Signal Processing
+      dept: EECS
+      type: Header
+      description: Fundamentals of signal processing, focusing on the use of Fourier methods to analyze and process signals such as sounds and images. Topics include Fourier series, Fourier transforms, the Discrete Fourier Transform, sampling, convolution, deconvolution, filtering, noise reduction, and compression. Applications draw broadly from areas of contemporary interest with emphasis on both analysis and design.
+    - number: 6.UAR
+      name: Seminar in Undergraduate Advanced Research
+      units: 6
+      dept: EECS
+      type: Communication
+      description: Instruction in effective undergraduate research, including choosing and developing a research topic, surveying previous work and publications, research topics in EECS and the School of Engineering, industry best practices, design for robustness, technical presentation, authorship and collaboration, and ethics. Students engage in extensive written and oral communication exercises, in the context of an approved advanced research project.
+
+
 - term: Fall 2022
   classes:
     - number: 2.009
@@ -31,8 +56,8 @@
       dept: MechE
       type: Advanced Elective
       description: Cross-disciplinary studies in robot mechanics and intelligence. Emphasizes physical understanding of robot kinematics and dynamics, differential motion and energy method, design and control of robotic arms and mobile robots, and actuators, drives, and transmission. Second half of course focuses on algorithmic thinking and computation, computer vision and perception, planning and control for manipulation, localization and navigation, machine learning for robotics, and human-robot systems. Weekly laboratories include brushless DC motor control, design and fabrication of robotic arms and vehicles, robot vision and navigation, and programming and system integration using Robot Operating System (ROS). Group term project builds intelligent robots for specific applications of interest. 
-    - number: 2.S994
-      name: Pappalardo Apprenticeship I
+    - number: 2.S994 I
+      name: Junior Pappalardo Apprenticeship
       dept: MechE
       type: Advanced Elective
       description: The Pappalardo Apprentice series is designed to further develop fabrication skills, and provide mentor training and opportunities for peer-to-peer mentoring. The objective is to push the boundaries of the lab experience, further developing students' skills and the workspace as one of the safest, most productive, positive, and creative labs on campus. The program has two primary areas of emphasis.<br><b>1. Peer mentoring.</b> Apprentices are undergraduate lab assistants for 2.007, required signing-on to a regularly scheduled 2.007 lab section and an additional three-hour lab block to assist 2.007 students with fabrication, including machining, hand-tool use, materials and supplies assistance, brainstorming, and general peer-to-peer support.<br><b>2. Project work.</b> Apprentices will participate in a series of seminars and clinics to refresh and further their fabrication knowledge and hands-on skills, including mill and lathe use, CAD/CAM, and patternmaking. Weekly seminars and practicum cover a variety of topics such as shop best practices, machine setup, chip formation, fixturing, material selection, and physical metallurgy. Junior apprentices have the full-term project of fabricating a Stirling engine.

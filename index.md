@@ -1,5 +1,7 @@
 ---
 layout: splashpage
+title: Hello!
+description: I'm Ronak, an incoming graduate student at MIT for a Master of Science in Mechanical Engineering. I'm currently an undergraduate student at MIT, finishing my Bachelor of Science with a double major in Mechanical Engineering (with a concentration in Controls, Instrumentation, and Robotics) and Electrical Science and Engineering. Here, you can check out what classes I've taken, internships I've completed, research I've contributed to, projects I've made, and teams I've been a part of.
 ---
 
 {% include card.html

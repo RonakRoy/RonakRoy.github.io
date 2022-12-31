@@ -11,7 +11,7 @@ description: Looking for which classes I'm taking, I've taken, and I plan on tak
 
         <div class="class_list transition">
             {% for class in term.classes %}
-                <div id="{{ class.number }}" class="class transition {{ class.dept }}">
+                <div id="{{ class.number | replace: ' ', '-' }}" class="class transition {{ class.dept }}">
                     <div class="upper transition">
                         <span class="number">{{ class.number }}</span>
                         <span class="name">{{ class.name }}</span>
@@ -34,7 +34,7 @@ description: Looking for which classes I'm taking, I've taken, and I plan on tak
 <div id="class_overlay" class="overlay" style="display: none;">
     {% for term in site.data.classes %}
         {% for class in term.classes %}
-            <div id="{{ class.number }}_overlay" class="class_popup" style="display: none;">
+            <div id="{{ class.number | replace: ' ', '-' }}_overlay" class="class_popup" style="display: none;">
                 <div class="title">
                     <span class="number">{{ class.number }}: </span>
                     <span class="name">{{ class.name }}</span>

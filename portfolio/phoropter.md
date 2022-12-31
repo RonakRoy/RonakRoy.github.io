@@ -13,7 +13,7 @@ I invented a patent-pending, low-cost, and portable device used to determine eye
 {% include youtubevideo.html urltail='q3kSW633bsk'%}
 <div class="caption">Check out this video by Derek Muller, better known as the creator of the popular science YouTube channel (with almost 10 million subscribers) Veritasium, who covered my project and two others from the 2019 Regeneron Science Talent Search.</div>
 
-<br>
+<!-- <br>
 
 ##### Project Details
-I submitted a Nonprovisional Utility Patent application in the United States, and my invention is currently under review by the United States Patent and Trademark Office. Unfortunately, for the sake of protecting my IP, I will only upload further details once my patent application has been granted.
+I submitted a Nonprovisional Utility Patent application in the United States, and my invention is currently under review by the United States Patent and Trademark Office. Unfortunately, for the sake of protecting my IP, I will only upload further details once my patent application has been granted. -->
