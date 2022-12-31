@@ -8,5 +8,5 @@ As design lead on the rear suspension system of Gemini, MIT SEVT's upcoming mult
 
 <br>
 
-<iframe height="600px" width="100%" src="/assets/images/portfolio/geminibacksus_analysis.pdf"></iframe>
+<iframe height="600px" width="100%" src="/assets/documents/portfolio/geminibacksus_analysis.pdf"></iframe>
 <div class="caption">Design review presentation highlighting the set-up and results of the FEA analysis of the design.</div>

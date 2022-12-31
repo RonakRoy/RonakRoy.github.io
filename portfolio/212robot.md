@@ -18,5 +18,5 @@ The term project in Intro to Robotics was to modify a mobile robot to scoop and 
 
 <br>
 
-<iframe height="600px" width="100%" src="/assets/images/portfolio/212design.pdf"></iframe>
+<iframe height="600px" width="100%" src="/assets/documents/portfolio/212design.pdf"></iframe>
 <div class="caption">Design presentation detailing the hardware and software features of the scoop and scooping robot.</div>

@@ -14,7 +14,7 @@ For my final project in Underactuated Robotics, I developed a controller that co
 
 <br>
 
-<iframe height="600px" width="100%" src="/assets/images/portfolio/6832report.pdf"></iframe>
+<iframe height="600px" width="100%" src="/assets/documents/portfolio/6832report.pdf"></iframe>
 <div class="caption">My final report that goes into more detail about my egg flipping controller.</div>
 
 <br>

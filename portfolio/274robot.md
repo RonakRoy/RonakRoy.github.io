@@ -18,5 +18,5 @@ I designed and fabricated most of our Bio-inspired Robotics group final project,
 
 <br>
 
-<iframe height="600px" width="100%" src="/assets/images/portfolio/274poster.pdf"></iframe>
+<iframe height="600px" width="100%" src="/assets/documents/portfolio/274poster.pdf"></iframe>
 <div class="caption">Our final poster.</div>

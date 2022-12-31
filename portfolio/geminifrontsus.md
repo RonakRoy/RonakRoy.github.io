@@ -8,7 +8,7 @@ For Gemini, MIT SEVT's upcoming multi-occupant solar car, I was one of the leads
 
 <br>
 
-<iframe height="600px" width="100%" src="/assets/images/portfolio/geminifrontsus_planargeo.pdf"></iframe>
+<iframe height="600px" width="100%" src="/assets/documents/portfolio/geminifrontsus_planargeo.pdf"></iframe>
 <div class="caption">Planar hand calculations deriving the motion of the critical points in the system (the corners of the wheel) and the angle deviation of the wheel as a function of the angle deviation of the lower A-arm.</div>
 
 <br>

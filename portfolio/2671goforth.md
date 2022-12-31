@@ -11,10 +11,10 @@ In 2.671: Measurement and Instrumentation, the Junior-level laboratory course in
 <div class="caption">The experimental setup I constructed and programmed to maintain the soil moisture levels.</div>
 <br>
 
-<iframe height="600px" width="100%" src="/assets/images/portfolio/2671poster.pdf"></iframe>
+<iframe height="600px" width="100%" src="/assets/documents/portfolio/2671poster.pdf"></iframe>
 <div class="caption">My poster that I presented at the final poster session, with an overview of my experiment and its results.</div>
 
 <br>
 
-<iframe height="600px" width="100%" src="/assets/images/portfolio/2671paper.pdf"></iframe>
+<iframe height="600px" width="100%" src="/assets/documents/portfolio/2671paper.pdf"></iframe>
 <div class="caption">My final paper detailing my experiment and its results.</div>
