@@ -1,6 +1,6 @@
 ---
 layout: detailpage
-title: "Pappalardo Apprenticeship: Stirling Engine"
+title: "PStirling Engine"
 description: "Feb 2022 — May 2022"
 ---
 

@@ -13,6 +13,15 @@ filter_selected: all
 ---
 
 {% include card.html
+    title="Cast Iron Camelback Straightedge"
+    page_url="/portfolio/straightedge"
+    image_path="/assets/images/portfolio/straightedge.jpg"
+    subheader="Feb 2023 — Now"
+    description="As a Senior Pappalardo Apprentice, I designed a cast iron camelback straightedge that I cast, machined, and will hand-scrape."
+    tags="all class"
+%}
+
+{% include card.html
     title="2.74 Horizontal Throwing Arm Robot"
     page_url="/portfolio/274robot"
     image_path="/assets/images/portfolio/274robot.png"
