@@ -32,7 +32,7 @@ I then wrote an OpenCV app in Java that communicated with the Arduino over the S
 <br>
 
 
-![](/assets/images/portfolio/solar_real.png)
+![](/assets/images/portfolio/solar_real.jpg)
 <div class="caption">The constructed system.</div>
 
 <br>

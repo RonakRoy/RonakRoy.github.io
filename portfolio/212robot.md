@@ -8,7 +8,7 @@ The term project in Intro to Robotics was to modify a mobile robot to scoop and 
 
 <br>
 
-![](/assets/images/portfolio/212robot.png)
+![](/assets/images/portfolio/212robot.jpg)
 <div class="caption">Our completed robot.</div>
 
 <br>

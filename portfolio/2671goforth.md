@@ -7,7 +7,7 @@ description: Sep 2021 — Dec 2021
 In 2.671: Measurement and Instrumentation, the Junior-level laboratory course in MIT Mechanical Engineering, students conduct a term-long project known as the Go Forth and Measure Project, in which we use the measurement and analysis techniques learned in the class to investigate a question of our choosing. I looked into how changing pH and water concentration used to water lucky bamboo plants affects their growth and strength; to do this, I had to construct an experimental setup that constantly monitors soil moisture level and pumps water to maintain it.
 
 
-![](/assets/images/portfolio/2671setup.png)
+![](/assets/images/portfolio/2671setup.jpg)
 <div class="caption">The experimental setup I constructed and programmed to maintain the soil moisture levels.</div>
 <br>
 

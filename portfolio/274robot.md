@@ -13,7 +13,7 @@ I designed and fabricated most of our Bio-inspired Robotics group final project,
 
 <br>
 
-![](/assets/images/portfolio/274robot.png)
+![](/assets/images/portfolio/274robot.jpg)
 <div class="caption">Our completed robot.</div>
 
 <br>

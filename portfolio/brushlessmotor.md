@@ -25,7 +25,7 @@ My motor design consisted of four components:
 
 <br>
 
-![](/assets/images/portfolio/motor.png)
+![](/assets/images/portfolio/motor.jpg)
 <div class="caption">The stator portion of the motor. The inrunner design allows the coils are on the inside of the motor, allowing for more torque on the permanent magnet-including rotor.</div>
 
 <br>

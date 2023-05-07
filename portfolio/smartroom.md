@@ -8,5 +8,5 @@ Over IAP 2022, I tackled a mini-personal project to connect the lights and door 
 
 <br>
 
-![](/assets/images/portfolio/smartroom.png)
+![](/assets/images/portfolio/smartroom.jpg)
 <div class="caption">My updated smart light switch and door handle.</div>

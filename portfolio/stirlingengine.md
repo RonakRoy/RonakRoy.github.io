@@ -13,7 +13,7 @@ As a Pappalardo Apprentice, I designed a Stirling engine that I fabricated with 
 
 <br>
 
-![](/assets/images/portfolio/stirlingengine.png)
+![](/assets/images/portfolio/stirlingengine.jpg)
 <div class="caption">My completed Stirling engine</div>
 
 <br>
