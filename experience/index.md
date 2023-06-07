@@ -11,11 +11,29 @@ filter_selected: all
 ---
 
 {% include card.html
+	title="Graduate Research"
+	page_url="/experience/biomimetic"
+	image_path="/assets/images/experience/biomimetic.png"
+	subheader="MIT Biomimetic Robotics Laboratory | Starting Sep 2023"
+	description="I am performing my graduate research as a part of Prof. Sangbae Kim's Biomimetic Robotics Laboratory at MIT."
+	tags="all research"
+%}
+
+{% include card.html
+	title="Hardware Engineering Intern - Next Generation Concepts"
+	page_url="/experience/apple"
+	image_path="/assets/images/experience/apple.png"
+	subheader="Apple | Jun — Sep 2023"
+	description=""
+	tags="all industry"
+%}
+
+{% include card.html
 	title="ReMAP&colon; AFM Rotation-enabled Multi-tip Active Probe Atomic Force Microscopy"
 	page_url="/experience/mrl"
-	image_path="/assets/images/experience/mrl.png"
-	subheader="MIT Mechatronics Research Laboratory | Feb 2022 — Now"
-	description="I am working on the ReMAP AFM (Rotation-enabled Multi-tip Active Probe Atomic Force Microscopy) system."
+	image_path="/assets/images/experience/remap.jpeg"
+	subheader="MIT Mechatronics Research Laboratory | Feb 2022 — May 2023"
+	description="I helped develop the ReMAP AFM (Rotation-enabled Multi-tip Active Probe Atomic Force Microscopy) system."
 	tags="all research"
 %}
 
