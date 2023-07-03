@@ -10,5 +10,7 @@
             {{ include.description }}
         </h5>
     </div>
+    {% if include.page_url %}
     <a class="page_link" href="{{ include.page_url }}"></a>
+    {% endif %}
 </div>
