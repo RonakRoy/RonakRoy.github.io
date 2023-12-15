@@ -22,6 +22,15 @@ filter_selected: all
 %}
 
 {% include card.html
+    title="Smart Room Upgrades"
+    page_url="/portfolio/smartroom"
+    image_path="/assets/images/portfolio/smartroom_v2.jpg"
+    subheader="Jan 2022, Sep 2022"
+    description="I have been working on a personal project to develop hardware to attach to fixtures in my apartment (light switches, door handles, etc.) to make them smart-home compatible. The systems I designed have sensing and actuation without interfering with the original interaction method, such as flicking a light switch."
+    tags="all personal"
+%}
+
+{% include card.html
     title="2.74 Horizontal Throwing Arm Robot"
     page_url="/portfolio/274robot"
     image_path="/assets/images/portfolio/274robot.jpg"
@@ -64,15 +73,6 @@ filter_selected: all
     subheader="Jan — Mar 2022"
     description="As design lead on the rear suspension system of Gemini, MIT SEVT's upcoming multi-occupant solar car, I pioneered the use of assembly-level FEA to get better stress analysis and help optimize the design."
     tags="all SEVT"
-%}
-
-{% include card.html
-    title="Smart Room Upgrades"
-    page_url="/portfolio/smartroom"
-    image_path="/assets/images/portfolio/smartroom.jpg"
-    subheader="Jan 2022"
-    description="Over IAP 2022, I tackled a mini-personal project to connect the lights and door in my room with the rest of my smart-home setup. I designed a system that was able to detect light switch state state and physically interact with the switch and door handle without interfering with manual operation."
-    tags="all personal"
 %}
 
 {% include card.html

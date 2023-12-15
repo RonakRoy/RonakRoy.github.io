@@ -13,16 +13,16 @@ filter_selected: all
 {% include card.html
 	title="Graduate Research"
 	image_path="/assets/images/experience/biomimetic.png"
-	subheader="MIT Biomimetic Robotics Laboratory | Starting Sep 2023"
-	description="I am performing my graduate research as a part of Prof. Sangbae Kim's Biomimetic Robotics Laboratory at MIT."
+	subheader="MIT Biomimetic Robotics Laboratory | Sep 2023 - Now"
+	description="I am conducting my graduate research as a part of Prof. Sangbae Kim's Biomimetic Robotics Laboratory at MIT."
 	tags="all research"
 %}
 
 {% include card.html
-	title="Prototyping Hardware Engineering Intern"
+	title="Hardware Prototyping Engineering Intern"
 	image_path="/assets/images/experience/apple.png"
 	subheader="Apple | Jun — Sep 2023"
-	description=""
+	description="Developed prototype electromechanical instrumentation hardware."
 	tags="all industry"
 %}
 
