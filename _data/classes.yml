@@ -1,5 +1,17 @@
 - degree: Master's (S.M)
   terms:
+    - term: Spring 2023
+      classes:
+        - number: 2.152
+          name: Nonlinear Control
+          dept: MechE
+          type: Graduate
+          description: Introduction to nonlinear control and estimation in physical and biological systems. Nonlinear stability theory, Lyapunov analysis, Barbalat's lemma. Feedback linearization, differential flatness, internal dynamics. Sliding surfaces. Adaptive nonlinear control and estimation. Multiresolution bases, nonlinear system identification. Contraction analysis, differential stability theory. Nonlinear observers. Asynchronous distributed computation and learning. Concurrent synchronization, polyrhythms. Monotone nonlinear systems. Emphasizes application to physical systems (robots, aircraft, spacecraft, underwater vehicles, reaction-diffusion processes, machine vision, oscillators, internet), machine learning, computational neuroscience, and systems biology. Includes term projects.
+        - number: 18.385
+          name: Nonlinear Dynamics and Chaos
+          dept: Math
+          type: Graduate
+          description: Introduction to the theory of nonlinear dynamical systems with applications from science and engineering. Local and global existence of solutions, dependence on initial data and parameters. Elementary bifurcations, normal forms. Phase plane, limit cycles, relaxation oscillations, Poincare-Bendixson theory. Floquet theory. Poincare maps. Averaging. Near-equilibrium dynamics. Synchronization. Introduction to chaos. Universality. Strange attractors. Lorenz and Rossler systems. Hamiltonian dynamics and KAM theory. Uses MATLAB computing environment.
     - term: Fall 2023
       classes:
         - number: 2.737
@@ -7,7 +19,6 @@
           dept: MechE
           type: Graduate
           description: Introduction to designing mechatronic systems, which require integration of the mechanical and electrical engineering disciplines within a unified framework. Significant laboratory-based design experiences form subject's core. Final project. Topics include low-level interfacing of software with hardware; use of high-level graphical programming tools to implement real-time computation tasks; digital logic; analog interfacing and power amplifiers; measurement and sensing; electromagnetic and optical transducers; control of mechatronic systems.
-
 - degree: Bachelor's (S.B)
   terms:
   - term: Spring 2023

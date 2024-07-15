@@ -34,26 +34,28 @@ description: Looking for which classes I'm taking, I've taken, and I plan on tak
 {% endfor %}
 
 <div id="class_overlay" class="overlay" style="display: none;">
-    {% for term in site.data.classes %}
-        {% for class in term.classes %}
-            <div id="{{ class.number | replace: ' ', '-' }}_overlay" class="class_popup" style="display: none;">
-                <div class="title">
-                    <span class="number">{{ class.number }}: </span>
-                    <span class="name">{{ class.name }}</span>
-                </div>
+    {% for degree in site.data.classes %}
+        {% for term in degree.terms %}
+            {% for class in term.classes %}
+                <div id="{{ class.number | replace: ' ', '-' }}_overlay" class="class_popup" style="display: none;">
+                    <div class="title">
+                        <span class="number">{{ class.number }}: </span>
+                        <span class="name">{{ class.name }}</span>
+                    </div>
 
-                <div class="metadata">
-                    {{ class.dept }}{% if class.type %} | {{ class.type }}{% endif %} | {% if class.units %} {{ class.units }} {% else %} 12 {% endif %} units
-                </div>
+                    <div class="metadata">
+                        {{ class.dept }}{% if class.type %} | {{ class.type }}{% endif %} | {% if class.units %} {{ class.units }} {% else %} 12 {% endif %} units
+                    </div>
 
-                <div class="description">
-                    {{ class.description }}
-                </div>
+                    <div class="description">
+                        {{ class.description }}
+                    </div>
 
-                <div style="text-align: center; margin-top: 12px">
-                    <div class="button inline transition gray">close</div>
+                    <div style="text-align: center; margin-top: 12px">
+                        <div class="button inline transition gray">close</div>
+                    </div>
                 </div>
-            </div>
+            {% endfor %}
         {% endfor %}
     {% endfor %}
 </div>
