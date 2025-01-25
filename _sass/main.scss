@@ -321,6 +321,18 @@ h5 {
     color: #ebebeb;
     font-weight: $regular_weight;
     margin-bottom: 0px;
+
+    & a {
+      color: #c3e8cb;
+
+      &:visited {
+        color: #c3e8cb;
+      }
+    
+      &:hover {
+        color: #9bcba6;
+      }
+    }
   }
 
   &.homepage {
@@ -625,6 +637,10 @@ h5 {
 
     &.MechE {
       background: #B4EDD2;
+    }
+
+    &.MatSci {
+      background: #cfeee0;
     }
 
     &.EECS {

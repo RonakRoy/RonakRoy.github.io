@@ -6,11 +6,30 @@ description: Here, you can learn more about some of the projects I've worked on 
 filterable: true
 filter_tags:
   - all
+  - research
   - class
   - personal
-  - SEVT
+  - solar&nbsp;car
 filter_selected: all
 ---
+
+{% include card.html
+    title="High-Precision Dynamometer"
+    page_url="/portfolio/dynamometer"
+    image_path="/assets/images/portfolio/dynamometer.jpg"
+    subheader="October 2024 — January 2025"
+    description="For my Master's research, I developed a high-bandwidth, high-precision dynamometer for motor characterization. Its key feature is a easy-to-use alignment mechanism that can achieve excellent shaft-to-shaft alignment with sub-5 micron precision. I developed this system with the guidance of/as the term project for 2.77, taught by Prof. Alex Slocum."
+    tags="all research class"
+%}
+
+{% include card.html
+    title="18.385 Analog Wein Bridge Oscillator"
+    page_url="/portfolio/18385oscillator"
+    image_path="/assets/images/portfolio/18385oscillator.jpg"
+    subheader="April — May 2024"
+    description="I used nonlinear analysis to model a Wein Bridge oscillator circuit, both fully linear and stabilized with a incandescent lightbulb. Based on my analysis and experimental characterization of the lightbulb, I specified component values to create stable oscillations that accurately matched my model."
+    tags="all class"
+%}
 
 {% include card.html
     title="Cast Iron Camelback Straightedge"
@@ -71,8 +90,8 @@ filter_selected: all
     page_url="/portfolio/geminibacksus"
     image_path="/assets/images/portfolio/geminibacksus.png"
     subheader="Jan — Mar 2022"
-    description="As design lead on the rear suspension system of Gemini, MIT SEVT's upcoming multi-occupant solar car, I pioneered the use of assembly-level FEA to get better stress analysis and help optimize the design."
-    tags="all SEVT"
+    description="As design lead on the rear suspension system of Gemini, MIT solar&nbsp;car's upcoming multi-occupant solar car, I pioneered the use of assembly-level FEA to get better stress analysis and help optimize the design."
+    tags="all solar&nbsp;car"
 %}
 
 {% include card.html
@@ -89,8 +108,8 @@ filter_selected: all
     page_url="/portfolio/geminifrontsus"
     image_path="/assets/images/portfolio/geminifrontsus.png"
     subheader="Sep — Dec 2021"
-    description="For Gemini, MIT SEVT's upcoming multi-occupant solar car, I was a lead on the suspension and steering system. In determining the dimensions of the front double-A arm suspension, I developed a number of analytical tools to quantify the compatibility with the car's aeroshell and dynamic response to bump and droop."
-    tags="all SEVT"
+    description="For Gemini, MIT solar&nbsp;car's upcoming multi-occupant solar car, I was a lead on the suspension and steering system. In determining the dimensions of the front double-A arm suspension, I developed a number of analytical tools to quantify the compatibility with the car's aeroshell and dynamic response to bump and droop."
+    tags="all solar&nbsp;car"
 %}
 
 {% include card.html
@@ -108,7 +127,7 @@ filter_selected: all
     image_path="/assets/images/portfolio/nimbusbacksus.jpg"
     subheader="Oct 2019 — Jan 2020"
     description="On the MIT Solar Electric Vehicle Team, I was the Responsible Engineer for the rear suspension on Nimbus, our 2020 and 2022 American Solar Challenge-winning vehicle. One of my tasks was machining the shock mount using a ProtoTRAK CNC mill."
-    tags="all SEVT"
+    tags="all solar&nbsp;car"
 %}
 
 {% include card.html

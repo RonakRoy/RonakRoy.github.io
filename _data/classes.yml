@@ -1,6 +1,18 @@
 - degree: Master's (S.M)
   terms:
-    - term: Spring 2023
+    - term: Fall 2024
+      classes:
+        - number: 2.77
+          name: Precision Product Design
+          dept: MechE
+          type: Graduate
+          description: Examines design, selection, and combination of machine elements to produce a robust precision system. Introduces process, philosophy and physics-based principles of design to improve/enable renewable power generation, energy efficiency, and manufacturing productivity. Topics include linkages, power transmission, screws and gears, actuators, structures, joints, bearings, error apportionment, and error budgeting. Considers each topic with respect to its physics of operation, mechanics (strength, deformation, thermal effects) and accuracy, repeatability, and resolution. Includes guest lectures from practicing industry and academic leaders. Students design, build, and test a small benchtop precision machine, such as a heliostat for positioning solar PV panels or a two or three axis machine. Prior to each lecture, students review the pre-recorded detailed topic materials and then converge on what parts of the topic they want covered in extra depth in lecture. Students are assessed on their preparation for and participation in class sessions.
+        - number: 3.371
+          name: Structural Materials
+          dept: MatSci
+          type: Graduate
+          description: Examines theoretical and practical aspects of structural materials by discussing mechanical properties of materials and manufacturing processes used to convert raw materials into high performance and reliable components for particular applications. Discusses specific types of steel, aluminum, titanium, ceramics, cement, polymer,s and composites in context of commercially available product designations and specifications. Examines manufacturing processes used for exemplar products of each type of material, such as heat treatments, sintering, and injection molding, among others. Considers established methods of metallurgical failure analysis and fractography through product failure case studies in order to prepare students to determine root causes of component failures in the real world.
+    - term: Spring 2024
       classes:
         - number: 2.152
           name: Nonlinear Control

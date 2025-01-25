@@ -1,7 +1,7 @@
 ---
 layout: splashpage
 title: Hello!
-description: I'm Ronak, and I'm a Master's student in Mechanical Engineering at MIT under Prof. Sangbae Kim in the Biomimetic Robotics Lab. I graduated from MIT with a Bachelor of Science, double majoring in Mechanical Engineering and Electrical Engineering. Here, you can check out what classes I've taken, internships I've completed, research I've contributed to, projects I've made, and teams I've been a part of.
+description: I'm Ronak, and I'm a Master's student in Mechanical Engineering at MIT under Prof. Sangbae Kim in the Biomimetic Robotics Lab. I graduated from MIT with a Bachelor of Science, double majoring in Mechanical Engineering and Electrical Engineering. Here, you can check out what classes I've taken, internships I've completed, research I've contributed to, projects I've made, and teams I've been a part of. <br><br> <b>I'm currently looking for full-time positions after I graduate this semester. Please <a href="mailto:me@ronakroy.com">let me know</a> if you have an opportunity that you think I would be a good fit for!
 ---
 
 {% include card.html
@@ -14,7 +14,7 @@ description: I'm Ronak, and I'm a Master's student in Mechanical Engineering at 
     title="Experience"
     page_url="/experience/"
     image_path="/assets/images/experience.jpg"
-    description="Through internships at Apple and Tesla and in research at MIT and UC San Diego, I have been able to extend and apply my knowledge of mechanical design, prototyping, manufacturing, instrumentation, control system development, electronics layout, and programming." %}
+    description="Through internships at Apple and Tesla and in research at MIT, I have been able to extend and apply my knowledge of mechanical design, prototyping, manufacturing, instrumentation, control system development, electronics layout, and programming." %}
 
 {% include card.html
     title="Portfolio"
