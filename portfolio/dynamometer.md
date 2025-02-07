@@ -1,7 +1,7 @@
 ---
 layout: detailpage
-title: "2.12 Autonomous Excavation Robot"
-description: "April 2024 — May 2024"
+title: "High-Precision Dynamometer"
+description: "October 2024 — January 2025"
 ---
 
 For my Master's research, I developed a high-bandwidth, high-precision dynamometer for motor characterization. Its key feature is a easy-to-use alignment mechanism that can achieve excellent shaft-to-shaft alignment with sub-5 micron precision. I developed this system with the guidance of/as the term project for 2.77, taught by Prof. Alex Slocum.
